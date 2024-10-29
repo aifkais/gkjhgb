@@ -9,7 +9,7 @@ from Game_Init import initPokemontoTrainer
 from Utility import asp, asp2
 from Spieltag import spieltag, rr2, spieltag2, aufabstieg, getsortettable,sortierfunktion
 from FrontEnd import showprofile, gethelp
-from Fight import getday, change, resetseason, incday, incday2,blockPrint, enablePrint
+from Fight import getday, change, resetseason, incday, incday2,blockPrint, enablePrint,linetoArr
 from kivy.uix.popup import Popup
 from kivy.app import App
 from kivy.uix.label import Label
@@ -21,6 +21,11 @@ from kivy.uix.gridlayout import GridLayout
 from kivy.uix.textinput import TextInput
 from kivy.uix.image import Image
 # Definition der ersten Seite (MainScreen)
+
+
+MainPlayerList=[]
+
+
 class BaseScreen(Screen):
     def confirm_page_change(self, next_screen_name):
         # Layout für das Popup
@@ -128,6 +133,7 @@ class BaseScreen(Screen):
 class MainScreen(BaseScreen):
     def __init__(self, **kwargs):
         super(MainScreen, self).__init__(**kwargs)
+        MainPlayerList=linetoArr("Trainer1Gen","TrainerName","breeder")
         layout = BoxLayout(orientation='vertical')
         # Erstelle das Hauptlayout
         mainmainwindow = BoxLayout(orientation='vertical')
@@ -141,11 +147,11 @@ class MainScreen(BaseScreen):
         
         
         info11 = Label(text='Day1')
-        info12 = Label(text='League 1')
+        info12 = Label(text='Liga:'+str(MainPlayerList[0][11]))
         info13 = Label(text='Place')
-        info14 = Label(text='Points')
-        info15 = Label(text = 'W')
-        info16 = Label(text = 'L')
+        info14 = Label(text='Pkt:'+str(MainPlayerList[0][3]))
+        info15 = Label(text = 'W:'+str(MainPlayerList[0][3]))
+        info16 = Label(text = 'L:'+str(MainPlayerList[0][4]))
 
         window2 = BoxLayout(orientation='horizontal')
 
@@ -161,7 +167,7 @@ class MainScreen(BaseScreen):
         window29 = BoxLayout(orientation='vertical')
         
         info211 = Label(text = "1")
-        info212 = Label(text = "O")
+        info212 = Label(text ="0")
 
         window21.add_widget(info211)
         window21.add_widget(info212)
