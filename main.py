@@ -1171,3 +1171,12 @@ def gameday2():
 #start_Game()
 #change1("get MISDREAVUS move3 RETURN")
 #change1("scout GOREBYSS give CLEFABLE")
+
+'''
+def get_pokemon_image(name):
+    # Finde die Nummer basierend auf dem Namen
+    for number, pokemon_name in pokemon_mapping.items():
+        if pokemon_name.lower() == name.lower():
+            return f"{number}.png"  # oder der Pfad zum Bild
+    return None  # Wenn das Pokémon nicht gefunden wird
+'''
