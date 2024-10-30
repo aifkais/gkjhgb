@@ -1217,4 +1217,22 @@ def get_pokemon_image(name):
         if pokemon_name.lower() == name.lower():
             return f"{number}.png"  # oder der Pfad zum Bild
     return None  # Wenn das Pokémon nicht gefunden wird
+
+def getalldb(tabelle):
+    conn = sqlite3.connect('PokeData.db')
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM " + tabelle)
+    result = cursor.fetchall()
+
+    # Überprüfe jede Zeile, ob sie nur NULL-Werte enthält
+    cleaned_result = []
+    for row in result:
+        # Wenn alle Werte in der Zeile None sind, füge "?" ein
+        if all(value is None for value in row):
+            cleaned_result.append("?")
+        else:
+            cleaned_result.append(row)
+
+    return cleaned_result
+    
 '''
