@@ -9,7 +9,7 @@ from Game_Init import initPokemontoTrainer
 from Utility import asp, asp2
 from Spieltag import spieltag, rr2, spieltag2, aufabstieg, getsortettable,sortierfunktion
 from FrontEnd import showprofile, gethelp
-from Fight import getday, change, resetseason, incday, incday2,blockPrint, enablePrint,linetoArr
+from Fight import getday, change, resetseason, incday, incday2,blockPrint, enablePrint,linetoArr,getalldb
 from kivy.uix.popup import Popup
 from kivy.app import App
 from kivy.uix.label import Label
@@ -23,11 +23,46 @@ from kivy.uix.image import Image
 # Definition der ersten Seite (MainScreen)
 
 
-MainPlayerList=[]
+leagueTable=[]
+days = []
+days11 = []
+days12 = []
+days13 = []
+player = []
+pokestats1 = []
+pokestats2 = []
+pokestats3 = []
+pokestats4 = []
+
+def frontendInit():
+   global leagueTable
+   global days 
+   global days11
+   global days12 
+   global days13 
+   global player 
+   global pokestats1
+   global pokestats2 
+   global pokestats3 
+   global pokestats4 
+   leagueTable = getalldb("Trainer1Gen")
+   days = getalldb("Spieltage")
+   days11 = getalldb("SpieltagGen11")
+   days12 = getalldb("SpieltagGen12")
+   days13 = getalldb("SpieltagGen13")
+   player = getalldb("Spieler")
+   pokestats1 = linetoArr("PokeStats", "Species", "PIKACHU")
+   pokestats2 = linetoArr("PokeStats", "Species", "PIKACHU")
+   pokestats3 = linetoArr("PokeStats", "Species", "PIKACHU")
+   pokestats4 = linetoArr("PokeStats", "Species", "PIKACHU")
+
+   
+
 
 
 class BaseScreen(Screen):
     def confirm_page_change(self, next_screen_name):
+        
         # Layout für das Popup
         popup_layout = BoxLayout(orientation='vertical')
         label = Label(text='Kampf beginnen?')
@@ -132,8 +167,12 @@ class BaseScreen(Screen):
         self.manager.current = next_screen_name
 class MainScreen(BaseScreen):
     def __init__(self, **kwargs):
+
+
+
         super(MainScreen, self).__init__(**kwargs)
-        MainPlayerList=linetoArr("Trainer1Gen","TrainerName","breeder")
+
+        frontendInit()
         layout = BoxLayout(orientation='vertical')
         # Erstelle das Hauptlayout
         mainmainwindow = BoxLayout(orientation='vertical')
@@ -145,13 +184,12 @@ class MainScreen(BaseScreen):
         
         
         
-        
         info11 = Label(text='Day1')
-        info12 = Label(text='Liga:'+str(MainPlayerList[0][11]))
+        info12 = Label(text='Liga:'+str(leagueTable[0][11]))
         info13 = Label(text='Place')
-        info14 = Label(text='Pkt:'+str(MainPlayerList[0][3]))
-        info15 = Label(text = 'W:'+str(MainPlayerList[0][3]))
-        info16 = Label(text = 'L:'+str(MainPlayerList[0][4]))
+        info14 = Label(text='Pkt:'+str(leagueTable[0][3]))
+        info15 = Label(text = 'W:'+str(leagueTable[0][3]))
+        info16 = Label(text = 'L:'+str(leagueTable[0][4]))
 
         window2 = BoxLayout(orientation='horizontal')
 
