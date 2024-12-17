@@ -1,0 +1,224 @@
+beauty gegen ruinmaniac
+
+Team beauty:
+DODRIO MR_MIME LANTURN JUMPLUFF 
+
+Team ruinmaniac:
+KINGLER MANECTRIC CACTURNE HARIYAMA 
+
+DODRIO mit 261 HP
+KINGLER mit 251 HP
+
+DODRIO setzt UPROAR ein
+verursacht 109 Schaden 
+
+KINGLER setzt STOMP ein
+verursacht 92 Schaden 
+
+DODRIO setzt UPROAR ein
+verursacht 111 Schaden 
+
+KINGLER setzt STOMP ein
+verursacht 89 Schaden 
+
+DODRIO setzt UPROAR ein
+verursacht 105 Schaden 
+
+KINGLER ist KO!
+
+DODRIO mit 80 HP
+MANECTRIC mit 281 HP
+
+MANECTRIC setzt THUNDER ein
+Der Angriff ist sehr Effektiv
+verursacht 456 Schaden 
+
+DODRIO ist KO!
+
+MR_MIME mit 221 HP
+MANECTRIC mit 281 HP
+
+MANECTRIC setzt BITE ein
+Der Angriff ist sehr Effektiv
+verursacht 86 Schaden 
+
+MR_MIME setzt PSYCHIC ein
+verursacht 172 Schaden 
+
+MANECTRIC setzt BITE ein
+Der Angriff ist sehr Effektiv
+verursacht 88 Schaden 
+
+MR_MIME setzt PSYCHIC ein
+verursacht 161 Schaden 
+
+MANECTRIC ist KO!
+
+MR_MIME mit 47 HP
+CACTURNE mit 281 HP
+
+MR_MIME setzt PSYCHIC ein
+Der Angriff hat keine Wirkung
+verursacht 0 Schaden 
+
+CACTURNE setzt NEEDLE_ARM ein
+verursacht 71 Schaden 
+
+MR_MIME ist KO!
+
+LANTURN mit 391 HP
+CACTURNE mit 281 HP
+
+LANTURN setzt TAKE_DOWN ein
+verursacht 65 Schaden 
+
+CACTURNE setzt NEEDLE_ARM ein
+Der Angriff ist sehr Effektiv
+verursacht 186 Schaden 
+
+LANTURN setzt TAKE_DOWN ein
+Der Angriff ging daneben
+verursacht 0 Schaden 
+
+CACTURNE setzt NEEDLE_ARM ein
+Der Angriff ist sehr Effektiv
+verursacht 208 Schaden 
+
+LANTURN ist KO!
+
+JUMPLUFF mit 291 HP
+CACTURNE mit 216 HP
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 23 Schaden 
+
+CACTURNE setzt NEEDLE_ARM ein
+verursacht 19 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 23 Schaden 
+
+CACTURNE setzt NEEDLE_ARM ein
+verursacht 19 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 22 Schaden 
+
+CACTURNE setzt NEEDLE_ARM ein
+verursacht 22 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 21 Schaden 
+
+CACTURNE setzt NEEDLE_ARM ein
+verursacht 21 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 22 Schaden 
+
+CACTURNE setzt NEEDLE_ARM ein
+verursacht 20 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 21 Schaden 
+
+CACTURNE setzt NEEDLE_ARM ein
+verursacht 20 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 21 Schaden 
+
+CACTURNE setzt NEEDLE_ARM ein
+verursacht 20 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 21 Schaden 
+
+CACTURNE setzt NEEDLE_ARM ein
+verursacht 21 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 24 Schaden 
+
+CACTURNE setzt NEEDLE_ARM ein
+verursacht 22 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 21 Schaden 
+
+CACTURNE ist KO!
+
+JUMPLUFF mit 107 HP
+HARIYAMA mit 429 HP
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 49 Schaden 
+
+HARIYAMA setzt REVERSAL ein
+verursacht 0 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 45 Schaden 
+
+HARIYAMA setzt REVERSAL ein
+verursacht 0 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 42 Schaden 
+
+HARIYAMA setzt SEISMIC_TOSS ein
+verursacht 0 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 45 Schaden 
+
+HARIYAMA setzt REVERSAL ein
+verursacht 0 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 42 Schaden 
+
+HARIYAMA setzt BELLY_DRUM ein
+verursacht 0 Schaden 
+
+HARIYAMA setzt ENDURE ein
+verursacht 0 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 45 Schaden 
+
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 47 Schaden 
+
+HARIYAMA setzt BELLY_DRUM ein
+verursacht 0 Schaden 
+
+Verzweifler fuegt JUMPLUFF 36 zu!
+Verzweifler fuegt HARIYAMA 53 zu!
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 42 Schaden 
+
+HARIYAMA setzt REVERSAL ein
+verursacht 0 Schaden 
+
+Verzweifler fuegt JUMPLUFF 36 zu!
+Verzweifler fuegt HARIYAMA 53 zu!
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 48 Schaden 
+
+HARIYAMA setzt SEISMIC_TOSS ein
+verursacht 0 Schaden 
+
+Verzweifler fuegt JUMPLUFF 36 zu!
+Verzweifler fuegt HARIYAMA 53 zu!
+JUMPLUFF setzt MEGA_DRAIN ein
+verursacht 48 Schaden 
+
+Verzweifler fuegt JUMPLUFF 36 zu!
+Verzweifler fuegt HARIYAMA 53 zu!
+HARIYAMA ist KO!
+
+ruinmaniac hat keine Pokemon mehr..
+Total dmg von beauty: 1395
+Total dmg von ruinmaniac: 1460
+beauty gewinnt gegen ruinmaniac

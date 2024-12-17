@@ -1,0 +1,101 @@
+crushgirl gegen boarder
+
+Team crushgirl:
+ABSOL SKARMORY STANTLER MANTINE 
+
+Team boarder:
+XATU TORKOAL GRUMPIG WHISCASH 
+
+ABSOL mit 271 HP
+XATU mit 271 HP
+
+XATU setzt CONFUSE_RAY ein
+verursacht 0 Schaden 
+
+ABSOL setzt SHADOW_BALL ein
+Der Angriff ist sehr Effektiv
+verursacht 207 Schaden 
+
+XATU setzt CONFUSE_RAY ein
+verursacht 0 Schaden 
+
+ABSOL setzt SHADOW_BALL ein
+Der Angriff ist sehr Effektiv
+verursacht 204 Schaden 
+
+XATU ist KO!
+
+ABSOL mit 271 HP
+TORKOAL mit 281 HP
+
+ABSOL setzt HYPER_BEAM ein
+verursacht 120 Schaden 
+
+TORKOAL setzt HEAT_WAVE ein
+verursacht 155 Schaden 
+
+ABSOL setzt HYPER_BEAM ein
+ABSOL muss sich aufladen
+verursacht 0 Schaden 
+
+TORKOAL setzt HEAT_WAVE ein
+verursacht 157 Schaden 
+
+ABSOL ist KO!
+
+SKARMORY mit 271 HP
+TORKOAL mit 161 HP
+
+SKARMORY setzt ROCK_SLIDE ein
+Der Angriff ist sehr Effektiv
+verursacht 79 Schaden 
+
+TORKOAL setzt HEAT_WAVE ein
+Der Angriff ist sehr Effektiv
+verursacht 256 Schaden 
+
+SKARMORY setzt ROCK_SLIDE ein
+Der Angriff ist sehr Effektiv
+verursacht 71 Schaden 
+
+TORKOAL setzt HEAT_WAVE ein
+Der Angriff ist sehr Effektiv
+verursacht 256 Schaden 
+
+SKARMORY ist KO!
+
+STANTLER mit 287 HP
+TORKOAL mit 11 HP
+
+STANTLER setzt THUNDER ein
+verursacht 101 Schaden 
+
+TORKOAL ist KO!
+
+STANTLER mit 287 HP
+GRUMPIG mit 301 HP
+
+STANTLER setzt DOUBLE_EDGE ein
+verursacht 204 Schaden 
+
+GRUMPIG setzt PSYCHIC ein
+verursacht 132 Schaden 
+
+STANTLER setzt DOUBLE_EDGE ein
+verursacht 189 Schaden 
+
+GRUMPIG ist KO!
+
+STANTLER mit 155 HP
+WHISCASH mit 361 HP
+
+STANTLER setzt SOLAR_BEAM ein
+Der Angriff ist sehr Effektiv
+verursacht 453 Schaden 
+
+WHISCASH ist KO!
+
+boarder hat keine Pokemon mehr..
+Total dmg von crushgirl: 1628
+Total dmg von boarder: 956
+crushgirl gewinnt gegen boarder

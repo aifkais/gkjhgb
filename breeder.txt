@@ -1,0 +1,108 @@
+breeder gegen tuberm
+
+Team breeder:
+ZANGOOSE MISDREAVUS SEVIPER GOLBAT 
+
+Team tuberm:
+CRAWDAUNT MAGNETON FORRETRESS SWALOT 
+
+ZANGOOSE mit 287 HP
+CRAWDAUNT mit 267 HP
+
+ZANGOOSE setzt HYPNOSIS ein
+Der Angriff hat keine Wirkung
+verursacht 0 Schaden 
+
+CRAWDAUNT setzt CRABHAMMER ein
+Der Angriff ging daneben
+verursacht 0 Schaden 
+
+ZANGOOSE setzt HYPNOSIS ein
+Der Angriff hat keine Wirkung
+verursacht 0 Schaden 
+
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 164 Schaden 
+
+ZANGOOSE setzt HYPNOSIS ein
+Der Angriff hat keine Wirkung
+verursacht 0 Schaden 
+
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 162 Schaden 
+
+ZANGOOSE ist KO!
+
+MISDREAVUS mit 261 HP
+CRAWDAUNT mit 267 HP
+
+MISDREAVUS setzt PSYBEAM ein
+Der Angriff hat keine Wirkung
+verursacht 0 Schaden 
+
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 126 Schaden 
+
+MISDREAVUS setzt PERISH_SONG ein
+verursacht 0 Schaden 
+
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 118 Schaden 
+
+MISDREAVUS setzt PAIN_SPLIT ein
+verursacht 0 Schaden 
+
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 114 Schaden 
+
+MISDREAVUS ist KO!
+
+SEVIPER mit 287 HP
+CRAWDAUNT mit 267 HP
+
+SEVIPER setzt RETURN ein
+verursacht 92 Schaden 
+
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 169 Schaden 
+
+SEVIPER setzt RETURN ein
+verursacht 86 Schaden 
+
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 150 Schaden 
+
+SEVIPER ist KO!
+
+GOLBAT mit 291 HP
+CRAWDAUNT mit 89 HP
+
+GOLBAT setzt LEECH_LIFE ein
+Der Angriff ist sehr Effektiv
+verursacht 123 Schaden 
+
+CRAWDAUNT ist KO!
+
+GOLBAT mit 291 HP
+MAGNETON mit 241 HP
+
+GOLBAT setzt SHADOW_BALL ein
+verursacht 54 Schaden 
+
+MAGNETON setzt ZAP_CANNON ein
+Der Angriff ging daneben
+verursacht 0 Schaden 
+
+GOLBAT setzt SHADOW_BALL ein
+verursacht 55 Schaden 
+
+MAGNETON setzt ZAP_CANNON ein
+Der Angriff ist sehr Effektiv
+verursacht 430 Schaden 
+
+GOLBAT ist KO!
+
+breeder hat keine Pokemon mehr..
+Total dmg von breeder: 410
+Total dmg von tuberm: 1433
+tuberm gewinnt gegen breeder

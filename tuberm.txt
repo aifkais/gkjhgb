@@ -1,0 +1,138 @@
+boarder gegen tuberm
+
+Team boarder:
+XATU
+TORKOAL
+GRUMPIG
+WHISCASH
+
+Team tuberm:
+CRAWDAUNT
+MAGNETON
+FORRETRESS
+SWALOT
+
+XATU mit 271 HP
+CRAWDAUNT mit 267 HP
+
+XATU setzt PSYCHIC ein
+Der Angriff hat keine Wirkung
+verursacht 0 Schaden
+
+267
+CRAWDAUNT setzt CRABHAMMER ein
+Der Angriff ging daneben
+verursacht 0 Schaden
+
+XATU setzt FUTURE_SIGHT ein
+Der Angriff hat keine Wirkung
+verursacht 0 Schaden
+
+267
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 137 Schaden
+
+XATU setzt CONFUSE_RAY ein
+verursacht 0 Schaden
+
+267
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 144 Schaden
+
+XATU ist KO!
+
+TORKOAL mit 281 HP
+CRAWDAUNT mit 267 HP
+
+1
+0
+CRAWDAUNT setzt CRABHAMMER ein
+Der Angriff ist sehr Effektiv
+verursacht 299 Schaden
+
+TORKOAL ist KO!
+
+GRUMPIG mit 301 HP
+CRAWDAUNT mit 267 HP
+
+1
+0
+GRUMPIG setzt BOUNCE ein
+verursacht 38 Schaden
+
+267
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 95 Schaden
+
+GRUMPIG setzt BOUNCE ein
+verursacht 43 Schaden
+
+229
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 100 Schaden
+
+GRUMPIG setzt BOUNCE ein
+Der Angriff ging daneben
+verursacht 0 Schaden
+
+186
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 102 Schaden
+
+GRUMPIG setzt BOUNCE ein
+verursacht 45 Schaden
+
+186
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 91 Schaden
+
+GRUMPIG ist KO!
+
+WHISCASH mit 361 HP
+CRAWDAUNT mit 141 HP
+
+1
+0
+WHISCASH setzt EARTHQUAKE ein
+verursacht 110 Schaden
+
+141
+CRAWDAUNT setzt CRABHAMMER ein
+verursacht 140 Schaden
+
+WHISCASH setzt EARTHQUAKE ein
+verursacht 114 Schaden
+
+31
+CRAWDAUNT ist KO!
+
+WHISCASH mit 221 HP
+MAGNETON mit 241 HP
+
+0
+MAGNETON setzt TRI_ATTACK ein
+verursacht 54 Schaden
+
+WHISCASH setzt EARTHQUAKE ein
+Der Angriff ist sehr Effektiv
+verursacht 376 Schaden
+
+MAGNETON ist KO!
+
+WHISCASH mit 167 HP
+FORRETRESS mit 291 HP
+
+0
+WHISCASH setzt FUTURE_SIGHT ein
+verursacht 55 Schaden
+
+291
+FORRETRESS setzt EXPLOSION ein
+verursacht 235 Schaden
+
+WHISCASH ist KO!
+
+boarder hat keine Pokemon mehr..
+Total dmg von boarder: 781
+Total dmg von tuberm: 1397
+tuberm gewinnt gegen boarder

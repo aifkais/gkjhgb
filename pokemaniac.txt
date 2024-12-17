@@ -1,0 +1,104 @@
+pokemaniac gegen swimmerm
+
+Team pokemaniac:
+BRELOOM SHARPEDO CAMERUPT TROPIUS 
+
+Team swimmerm:
+SHIFTRY GLALIE PIDGEOT DEWGONG 
+
+BRELOOM mit 261 HP
+SHIFTRY mit 321 HP
+
+SHIFTRY setzt POUND ein
+verursacht 37 Schaden 
+
+BRELOOM setzt FOCUS_PUNCH ein
+Der Angriff ist sehr Effektiv
+verursacht 723 Schaden 
+
+SHIFTRY ist KO!
+
+BRELOOM mit 224 HP
+GLALIE mit 301 HP
+
+GLALIE setzt BLIZZARD ein
+Der Angriff ist sehr Effektiv
+verursacht 326 Schaden 
+
+BRELOOM ist KO!
+
+SHARPEDO mit 281 HP
+GLALIE mit 301 HP
+
+SHARPEDO setzt SKULL_BASH ein
+verursacht 141 Schaden 
+
+GLALIE setzt BLIZZARD ein
+verursacht 129 Schaden 
+
+SHARPEDO setzt SKULL_BASH ein
+verursacht 153 Schaden 
+
+GLALIE setzt BLIZZARD ein
+verursacht 114 Schaden 
+
+SHARPEDO setzt SKULL_BASH ein
+verursacht 137 Schaden 
+
+GLALIE ist KO!
+
+SHARPEDO mit 38 HP
+PIDGEOT mit 307 HP
+
+PIDGEOT setzt WING_ATTACK ein
+verursacht 120 Schaden 
+
+SHARPEDO ist KO!
+
+CAMERUPT mit 281 HP
+PIDGEOT mit 307 HP
+
+PIDGEOT setzt WING_ATTACK ein
+verursacht 87 Schaden 
+
+CAMERUPT setzt ROCK_SLIDE ein
+Der Angriff ist sehr Effektiv
+verursacht 157 Schaden 
+
+PIDGEOT setzt WING_ATTACK ein
+verursacht 73 Schaden 
+
+CAMERUPT setzt ROCK_SLIDE ein
+Der Angriff ist sehr Effektiv
+verursacht 162 Schaden 
+
+PIDGEOT ist KO!
+
+CAMERUPT mit 121 HP
+DEWGONG mit 321 HP
+
+DEWGONG setzt TAKE_DOWN ein
+verursacht 68 Schaden 
+
+CAMERUPT setzt ROCK_SLIDE ein
+Der Angriff ging daneben
+verursacht 0 Schaden 
+
+DEWGONG setzt TAKE_DOWN ein
+verursacht 70 Schaden 
+
+CAMERUPT ist KO!
+
+TROPIUS mit 339 HP
+DEWGONG mit 321 HP
+
+DEWGONG setzt ICE_BEAM ein
+Der Angriff ist sehr Effektiv
+verursacht 350 Schaden 
+
+TROPIUS ist KO!
+
+pokemaniac hat keine Pokemon mehr..
+Total dmg von pokemaniac: 1473
+Total dmg von swimmerm: 1374
+swimmerm gewinnt gegen pokemaniac

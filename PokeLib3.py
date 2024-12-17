@@ -1,0 +1,5282 @@
+moveList3 = [
+  ("BULBASAUR",(
+  "TACKLE",
+  "GROWL",
+  "LEECH_SEED",
+  "VINE_WHIP",
+  "POISON_POWDER",
+  "SLEEP_POWDER",
+  "RAZOR_LEAF",
+  "SWEET_SCENT",
+  "GROWTH",
+  "SYNTHESIS",
+  "SOLAR_BEAM",
+  )),
+
+
+  ("IVYSAUR",(
+  "TACKLE",
+  "GROWL",
+  "LEECH_SEED",
+  "GROWL",
+  "LEECH_SEED",
+  "VINE_WHIP",
+  "POISON_POWDER",
+  "SLEEP_POWDER",
+  "RAZOR_LEAF",
+  "SWEET_SCENT",
+  "GROWTH",
+  "SYNTHESIS",
+  "SOLAR_BEAM",
+  )),
+
+
+  ("VENUSAUR",(
+  "TACKLE",
+  "GROWL",
+  "LEECH_SEED",
+  "VINE_WHIP",
+  "GROWL",
+  "LEECH_SEED",
+  "VINE_WHIP",
+  "POISON_POWDER",
+  "SLEEP_POWDER",
+  "RAZOR_LEAF",
+  "SWEET_SCENT",
+  "GROWTH",
+  "SYNTHESIS",
+  "SOLAR_BEAM",
+  )),
+
+
+  ("CHARMANDER",(
+  "GROWL",
+  "SMOKESCREEN",
+  "RAGE",
+  "SCARY_FACE",
+  "DRAGON_RAGE",
+  "FIRE_SPIN",
+  "FLAMETHROWER",
+  "SLASH",
+  "EMBER",
+  "SCRATCH",
+  )),
+
+
+  ("CHARMELEON",(
+  "SCRATCH",
+  "GROWL",
+  "EMBER",
+  "EMBER",
+  "SMOKESCREEN",
+  "RAGE",
+  "SCARY_FACE",
+  "FLAMETHROWER",
+  "SLASH",
+  "DRAGON_RAGE",
+  "FIRE_SPIN",
+  )),
+
+
+  ("CHARIZARD",(
+  "SCRATCH",
+  "GROWL",
+  "EMBER",
+  "SMOKESCREEN",
+  "EMBER",
+  "SMOKESCREEN",
+  "RAGE",
+  "SCARY_FACE",
+  "FLAMETHROWER",
+  "WING_ATTACK",
+  "SLASH",
+  "DRAGON_RAGE",
+  "FIRE_SPIN",
+  )),
+
+
+  ("SQUIRTLE",(
+  "TACKLE",
+  "TAIL_WHIP",
+  "BUBBLE",
+  "WITHDRAW",
+  "WATER_GUN",
+  "BITE",
+  "RAPID_SPIN",
+  "PROTECT",
+  "RAIN_DANCE",
+  "SKULL_BASH",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("WARTORTLE",(
+  "TACKLE",
+  "TAIL_WHIP",
+  "BUBBLE",
+  "TAIL_WHIP",
+  "BUBBLE",
+  "WITHDRAW",
+  "WATER_GUN",
+  "BITE",
+  "RAPID_SPIN",
+  "PROTECT",
+  "RAIN_DANCE",
+  "SKULL_BASH",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("BLASTOISE",(
+  "TACKLE",
+  "TAIL_WHIP",
+  "BUBBLE",
+  "WITHDRAW",
+  "TAIL_WHIP",
+  "BUBBLE",
+  "WITHDRAW",
+  "WATER_GUN",
+  "BITE",
+  "RAPID_SPIN",
+  "PROTECT",
+  "RAIN_DANCE",
+  "SKULL_BASH",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("CATERPIE",(
+  "TACKLE",
+  "STRING_SHOT",
+  "HARDEN",
+  "IRON_DEFENSE",
+  )),
+
+
+  ("METAPOD",(
+  "HEADBUTT",
+  "STRING_SHOT",
+  "HARDEN",
+  "IRON_DEFENSE",
+
+  )),
+
+
+  ("BUTTERFREE",(
+  "CONFUSION",
+  "POISON_POWDER",
+  "STUN_SPORE",
+  "SLEEP_POWDER",
+  "SUPERSONIC",
+  "WHIRLWIND",
+  "GUST",
+  "PSYBEAM",
+  "SAFEGUARD",
+  "SILVER_WIND",
+  )),
+
+
+  ("WEEDLE",(
+  "POISON_STING",
+  "STRING_SHOT",
+  "TACKLE",
+  "TOXIC",
+  )),
+
+
+  ("KAKUNA",(
+  "IRON_DEFENSE",
+  "POISON_STING",
+  "STRING_SHOT",
+  "HEADBUTT",
+  )),
+
+
+  ("BEEDRILL",(
+  "FURY_ATTACK",
+  "FOCUS_ENERGY",
+  "TWINEEDLE",
+  "RAGE",
+  "PURSUIT",
+  "PIN_MISSILE",
+  "AGILITY",
+  "ENDEAVOR",
+  )),
+
+
+  ("PIDGEY",(
+  "TACKLE",
+  "SAND_ATTACK",
+  "GUST",
+  "QUICK_ATTACK",
+  "WHIRLWIND",
+  "WING_ATTACK",
+  "FEATHER_DANCE",
+  "AGILITY",
+  "MIRROR_MOVE",
+  )),
+
+
+  ("PIDGEOTTO",(
+  "TACKLE",
+  "SAND_ATTACK",
+  "GUST",
+  "SAND_ATTACK",
+  "GUST",
+  "QUICK_ATTACK",
+  "WHIRLWIND",
+  "WING_ATTACK",
+  "FEATHER_DANCE",
+  "AGILITY",
+  "MIRROR_MOVE",
+  )),
+
+
+  ("PIDGEOT",(
+  "TACKLE",
+  "SAND_ATTACK",
+  "GUST",
+  "QUICK_ATTACK",
+  "SAND_ATTACK",
+  "GUST",
+  "QUICK_ATTACK",
+  "WHIRLWIND",
+  "WING_ATTACK",
+  "FEATHER_DANCE",
+  "AGILITY",
+  "MIRROR_MOVE",
+  )),
+
+
+  ("RATTATA",(
+  "TACKLE",
+  "TAIL_WHIP",
+  "QUICK_ATTACK",
+  "HYPER_FANG",
+  "FOCUS_ENERGY",
+  "PURSUIT",
+  "SUPER_FANG",
+  "ENDEAVOR",
+  )),
+
+
+  ("RATICATE",(
+  "TACKLE",
+  "TAIL_WHIP",
+  "QUICK_ATTACK",
+  "QUICK_ATTACK",
+  "HYPER_FANG",
+  "SCARY_FACE",
+  "PURSUIT",
+  "SUPER_FANG",
+  "ENDEAVOR",
+  )),
+
+
+  ("SPEAROW",(
+  "PECK",
+  "GROWL",
+  "LEER",
+  "FURY_ATTACK",
+  "PURSUIT",
+  "AERIAL_ACE",
+  "MIRROR_MOVE",
+  "DRILL_PECK",
+  "AGILITY",
+  )),
+
+
+  ("FEAROW",(
+  "PECK",
+  "GROWL",
+  "LEER",
+  "FURY_ATTACK",
+  "LEER",
+  "FURY_ATTACK",
+  "PURSUIT",
+  "MIRROR_MOVE",
+  "DRILL_PECK",
+  "AGILITY",
+  )),
+
+
+  ("EKANS",(
+  "WRAP",
+  "LEER",
+  "POISON_STING",
+  "BITE",
+  "GLARE",
+  "SCREECH",
+  "ACID",
+  "STOCKPILE",
+  "SWALLOW",
+  "SPIT_UP",
+  "HAZE",
+  )),
+
+
+  ("ARBOK",(
+  "WRAP",
+  "LEER",
+  "POISON_STING",
+  "BITE",
+  "POISON_STING",
+  "BITE",
+  "GLARE",
+  "SCREECH",
+  "ACID",
+  "STOCKPILE",
+  "SWALLOW",
+  "SPIT_UP",
+  "HAZE",
+  )),
+
+
+  ("PIKACHU",(
+  "THUNDER_SHOCK",
+  "GROWL",
+  "TAIL_WHIP",
+  "THUNDER_WAVE",
+  "QUICK_ATTACK",
+  "DOUBLE_TEAM",
+  "SLAM",
+  "THUNDERBOLT",
+  "AGILITY",
+  "THUNDER",
+  "LIGHT_SCREEN",
+  )),
+
+
+  ("RAICHU",(
+  "THUNDER_SHOCK",
+  "TAIL_WHIP",
+  "QUICK_ATTACK",
+  "THUNDERBOLT",
+  )),
+
+
+  ("SANDSHREW",(
+  "SCRATCH",
+  "DEFENSE_CURL",
+  "SAND_ATTACK",
+  "POISON_STING",
+  "SLASH",
+  "SWIFT",
+  "FURY_SWIPES",
+  "SAND_TOMB",
+  "SANDSTORM",
+  )),
+
+
+  ("SANDSLASH",(
+  "SCRATCH",
+  "DEFENSE_CURL",
+  "SAND_ATTACK",
+  "DEFENSE_CURL",
+  "SAND_ATTACK",
+  "POISON_STING",
+  "SLASH",
+  "SWIFT",
+  "FURY_SWIPES",
+  "SAND_TOMB",
+  "SANDSTORM",
+  )),
+
+
+  ("NIDORAN_F",(
+  "GROWL",
+  "SCRATCH",
+  "TAIL_WHIP",
+  "DOUBLE_KICK",
+  "POISON_STING",
+  "BITE",
+  "HELPING_HAND",
+  "FURY_SWIPES",
+  "FLATTER",
+  "CRUNCH",
+  )),
+
+
+  ("NIDORINA",(
+  "GROWL",
+  "SCRATCH",
+  "TAIL_WHIP",
+  "DOUBLE_KICK",
+  "POISON_STING",
+  "BITE",
+  "HELPING_HAND",
+  "FURY_SWIPES",
+  "FLATTER",
+  "CRUNCH",
+  )),
+
+
+  ("NIDOQUEEN",(
+  "SCRATCH",
+  "TAIL_WHIP",
+  "DOUBLE_KICK",
+  "POISON_STING",
+  "BODY_SLAM",
+  )),
+
+
+  ("NIDORAN_M",(
+  "LEER",
+  "PECK",
+  "FOCUS_ENERGY",
+  "DOUBLE_KICK",
+  "HELPING_HAND",
+  "HORN_DRILL",
+  "POISON_STING",
+  "FURY_ATTACK",
+  "FLATTER",
+
+  "HORN_ATTACK",
+  )),
+
+
+  ("NIDORINO",(
+  "LEER",
+  "PECK",
+  "FOCUS_ENERGY",
+  "DOUBLE_KICK",
+  "POISON_STING",
+  "HORN_ATTACK",
+  "HELPING_HAND",
+  "FURY_ATTACK",
+  "FLATTER",
+  "HORN_DRILL",
+  )),
+
+
+  ("NIDOKING",(
+  "PECK",
+  "FOCUS_ENERGY",
+  "DOUBLE_KICK",
+  "POISON_STING",
+  "THRASH",
+  )),
+
+
+  ("CLEFAIRY",(
+  "POUND",
+  "GROWL",
+  "ENCORE",
+  "SING",
+  "DOUBLE_SLAP",
+  "FOLLOW_ME",
+  "MINIMIZE",
+  "DEFENSE_CURL",
+  "METRONOME",
+  "COSMIC_POWER",
+  "MOONLIGHT",
+  "LIGHT_SCREEN",
+  "METEOR_MASH",
+  )),
+
+
+  ("CLEFABLE",(
+  "SING",
+  "DOUBLE_SLAP",
+  "MINIMIZE",
+  "METRONOME",
+  )),
+
+
+  ("VULPIX",(
+  "EMBER",
+  "TAIL_WHIP",
+  "ROAR",
+  "QUICK_ATTACK",
+  "WILL_O_WISP",
+  "CONFUSE_RAY",
+  "IMPRISON",
+  "FLAMETHROWER",
+  "SAFEGUARD",
+  "GRUDGE",
+  "FIRE_SPIN",
+  )),
+
+
+  ("NINETALES",(
+  "EMBER",
+  "QUICK_ATTACK",
+  "CONFUSE_RAY",
+  "SAFEGUARD",
+  "FIRE_SPIN",
+  )),
+
+
+  ("JIGGLYPUFF",(
+  "SING",
+  "DEFENSE_CURL",
+  "POUND",
+  "DISABLE",
+  "ROLLOUT",
+  "DOUBLE_SLAP",
+  "REST",
+  "BODY_SLAM",
+  "MIMIC",
+  "HYPER_VOICE",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("WIGGLYTUFF",(
+  "SING",
+  "DISABLE",
+  "DEFENSE_CURL",
+  "DOUBLE_SLAP",
+  )),
+
+
+  ("ZUBAT",(
+  "LEECH_LIFE",
+  "SUPERSONIC",
+  "ASTONISH",
+  "BITE",
+  "WING_ATTACK",
+  "CONFUSE_RAY",
+  "AIR_CUTTER",
+  "MEAN_LOOK",
+  "POISON_FANG",
+  "HAZE",
+  )),
+
+
+  ("GOLBAT",(
+  "SCREECH",
+  "LEECH_LIFE",
+  "SUPERSONIC",
+  "ASTONISH",
+  "SUPERSONIC",
+  "ASTONISH",
+  "BITE",
+  "WING_ATTACK",
+  "CONFUSE_RAY",
+  "AIR_CUTTER",
+  "MEAN_LOOK",
+  "POISON_FANG",
+  "HAZE",
+  )),
+
+
+  ("ODDISH",(
+  "ABSORB",
+  "SWEET_SCENT",
+  "POISON_POWDER",
+  "STUN_SPORE",
+  "SLEEP_POWDER",
+  "ACID",
+  "MOONLIGHT",
+  "PETAL_DANCE",
+  )),
+
+
+  ("GLOOM",(
+  "ABSORB",
+  "SWEET_SCENT",
+  "POISON_POWDER",
+  "SWEET_SCENT",
+  "POISON_POWDER",
+  "STUN_SPORE",
+  "SLEEP_POWDER",
+  "ACID",
+  "MOONLIGHT",
+  "PETAL_DANCE",
+  )),
+
+
+  ("VILEPLUME",(
+  "ABSORB",
+  "AROMATHERAPY",
+  "STUN_SPORE",
+  "MEGA_DRAIN",
+  "PETAL_DANCE",
+  )),
+
+
+  ("PARAS",(
+  "SCRATCH",
+  "STUN_SPORE",
+  "POISON_POWDER",
+  "LEECH_LIFE",
+  "SPORE",
+  "SLASH",
+  "GROWTH",
+  "GIGA_DRAIN",
+  "AROMATHERAPY",
+  )),
+
+
+  ("PARASECT",(
+  "SCRATCH",
+  "STUN_SPORE",
+  "POISON_POWDER",
+  "STUN_SPORE",
+  "POISON_POWDER",
+  "LEECH_LIFE",
+  "SPORE",
+  "SLASH",
+  "GROWTH",
+  "GIGA_DRAIN",
+  "AROMATHERAPY",
+  )),
+
+
+  ("VENONAT",(
+  "TACKLE",
+  "DISABLE",
+  "FORESIGHT",
+  "SUPERSONIC",
+  "CONFUSION",
+  "POISON_POWDER",
+  "LEECH_LIFE",
+  "STUN_SPORE",
+  "PSYBEAM",
+  "SLEEP_POWDER",
+  "PSYCHIC",
+  )),
+
+
+  ("VENOMOTH",(
+  "SILVER_WIND",
+  "TACKLE",
+  "DISABLE",
+  "FORESIGHT",
+  "SUPERSONIC",
+  "SUPERSONIC",
+  "CONFUSION",
+  "POISON_POWDER",
+  "LEECH_LIFE",
+  "STUN_SPORE",
+  "GUST",
+  "PSYBEAM",
+  "SLEEP_POWDER",
+  "PSYCHIC",
+  )),
+
+
+  ("DIGLETT",(
+  "SCRATCH",
+  "SAND_ATTACK",
+  "GROWL",
+  "MAGNITUDE",
+  "DIG",
+  "MUD_SLAP",
+  "SLASH",
+  "EARTHQUAKE",
+  "FISSURE",
+  )),
+
+
+  ("DUGTRIO",(
+  "TRI_ATTACK",
+  "SCRATCH",
+  "SAND_ATTACK",
+  "GROWL",
+  "GROWL",
+  "MAGNITUDE",
+  "DIG",
+  "MUD_SLAP",
+  "SAND_TOMB",
+  "SLASH",
+  "EARTHQUAKE",
+  "FISSURE",
+  )),
+
+
+  ("MEOWTH",(
+  "SCRATCH",
+  "GROWL",
+  "BITE",
+  "PAY_DAY",
+  "FAINT_ATTACK",
+  "SCREECH",
+  "FURY_SWIPES",
+  "SLASH",
+  "FAKE_OUT",
+  )),
+
+
+  ("PERSIAN",(
+  "SCRATCH",
+  "GROWL",
+  "BITE",
+  "BITE",
+  "PAY_DAY",
+  "FAINT_ATTACK",
+  "SCREECH",
+  "FURY_SWIPES",
+  "SLASH",
+  "FAKE_OUT",
+  )),
+
+
+  ("PSYDUCK",(
+  "WATER_SPORT",
+  "SCRATCH",
+  "TAIL_WHIP",
+  "DISABLE",
+  "CONFUSION",
+  "SCREECH",
+  "PSYCH_UP",
+  "FURY_SWIPES",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("GOLDUCK",(
+  "WATER_SPORT",
+  "SCRATCH",
+  "TAIL_WHIP",
+  "DISABLE",
+  "TAIL_WHIP",
+  "DISABLE",
+  "CONFUSION",
+  "SCREECH",
+  "PSYCH_UP",
+  "FURY_SWIPES",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("MANKEY",(
+  "SCRATCH",
+  "LEER",
+  "LOW_KICK",
+  "KARATE_CHOP",
+  "FURY_SWIPES",
+  "FOCUS_ENERGY",
+  "SEISMIC_TOSS",
+  "CROSS_CHOP",
+  "SCREECH",
+  "THRASH",
+  )),
+
+
+  ("PRIMEAPE",(
+  "SCRATCH",
+  "LEER",
+  "LOW_KICK",
+  "RAGE",
+  "LOW_KICK",
+  "KARATE_CHOP",
+  "FURY_SWIPES",
+  "FOCUS_ENERGY",
+  "RAGE",
+  "SEISMIC_TOSS",
+  "CROSS_CHOP",
+  "SCREECH",
+  "THRASH",
+  )),
+
+
+  ("GROWLITHE",(
+  "BITE",
+  "ROAR",
+  "EMBER",
+  "LEER",
+  "ODOR_SLEUTH",
+  "TAKE_DOWN",
+  "FLAME_WHEEL",
+  "HELPING_HAND",
+  "AGILITY",
+  "FLAMETHROWER",
+  )),
+
+
+  ("ARCANINE",(
+  "BITE",
+  "ROAR",
+  "EMBER",
+  "ODOR_SLEUTH",
+  "EXTREME_SPEED",
+  "FLAMETHROWER"
+  )),
+
+
+  ("POLIWAG",(
+  "BUBBLE",
+  "HYPNOSIS",
+  "WATER_GUN",
+  "DOUBLE_SLAP",
+  "RAIN_DANCE",
+  "BODY_SLAM",
+  "BELLY_DRUM",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("POLIWHIRL",(
+  "BUBBLE",
+  "HYPNOSIS",
+  "WATER_GUN",
+  "HYPNOSIS",
+  "WATER_GUN",
+  "DOUBLE_SLAP",
+  "RAIN_DANCE",
+  "BODY_SLAM",
+  "BELLY_DRUM",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("POLIWRATH",(
+  "WATER_GUN",
+  "HYPNOSIS",
+  "DOUBLE_SLAP",
+  "SUBMISSION",
+  "SUBMISSION",
+  "MIND_READER",
+  )),
+
+
+  ("ABRA",(
+  "TELEPORT",
+  "PSYCHIC",
+  "THUNDER_PUNCH",
+  "ICE_PUNCH",
+  "FIRE_PUNCH",
+  )),
+
+
+  ("KADABRA",(
+  "TELEPORT",
+  "KINESIS",
+  "CONFUSION",
+  "CONFUSION",
+  "DISABLE",
+  "PSYBEAM",
+  "REFLECT",
+  "RECOVER",
+  "FUTURE_SIGHT",
+  "ROLE_PLAY",
+  "TRICK",
+  "PSYCHIC",
+  "THUNDER_PUNCH",
+  "ICE_PUNCH",
+  "FIRE_PUNCH",
+  )),
+
+
+  ("ALAKAZAM",(
+  "TELEPORT",
+  "KINESIS",
+  "CONFUSION",
+  "CONFUSION",
+  "DISABLE",
+  "PSYBEAM",
+  "REFLECT",
+  "RECOVER",
+  "FUTURE_SIGHT",
+  "CALM_MIND",
+  "TRICK",
+  "PSYCHIC",
+  "THUNDER_PUNCH",
+  "ICE_PUNCH",
+  "FIRE_PUNCH",
+  )),
+
+
+  ("MACHOP",(
+  "LOW_KICK",
+  "LEER",
+  "FOCUS_ENERGY",
+  "KARATE_CHOP",
+  "SEISMIC_TOSS",
+  "FORESIGHT",
+  "REVENGE",
+  "VITAL_THROW",
+  "SUBMISSION",
+  "CROSS_CHOP",
+  "SCARY_FACE",
+  "DYNAMIC_PUNCH",
+  )),
+
+
+  ("MACHOKE",(
+  "LOW_KICK",
+  "LEER",
+  "FOCUS_ENERGY",
+  "FOCUS_ENERGY",
+  "KARATE_CHOP",
+  "SEISMIC_TOSS",
+  "FORESIGHT",
+  "REVENGE",
+  "VITAL_THROW",
+  "SUBMISSION",
+  "CROSS_CHOP",
+  "SCARY_FACE",
+  "DYNAMIC_PUNCH",
+  )),
+
+
+  ("MACHAMP",(
+  "LOW_KICK",
+  "LEER",
+  "FOCUS_ENERGY",
+  "FOCUS_ENERGY",
+  "KARATE_CHOP",
+  "SEISMIC_TOSS",
+  "FORESIGHT",
+  "REVENGE",
+  "VITAL_THROW",
+  "SUBMISSION",
+  "CROSS_CHOP",
+  "SCARY_FACE",
+  "DYNAMIC_PUNCH",
+  )),
+
+
+  ("BELLSPROUT",(
+  "VINE_WHIP",
+  "GROWTH",
+  "WRAP",
+  "SLEEP_POWDER",
+  "POISON_POWDER",
+  "STUN_SPORE",
+  "ACID",
+  "SWEET_SCENT",
+  "RAZOR_LEAF",
+  "SLAM",
+  )),
+
+
+  ("WEEPINBELL",(
+  "VINE_WHIP",
+  "GROWTH",
+  "WRAP",
+  "GROWTH",
+  "WRAP",
+  "SLEEP_POWDER",
+  "POISON_POWDER",
+  "STUN_SPORE",
+  "ACID",
+  "SWEET_SCENT",
+  "RAZOR_LEAF",
+  "SLAM",
+  )),
+
+
+  ("VICTREEBEL",(
+  "VINE_WHIP",
+  "SLEEP_POWDER",
+  "SWEET_SCENT",
+  "RAZOR_LEAF",
+  )),
+
+
+  ("TENTACOOL",(
+  "POISON_STING",
+  "SUPERSONIC",
+  "CONSTRICT",
+  "ACID",
+  "BUBBLE_BEAM",
+  "WRAP",
+  "BARRIER",
+  "SCREECH",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("TENTACRUEL",(
+  "POISON_STING",
+  "SUPERSONIC",
+  "CONSTRICT",
+  "SUPERSONIC",
+  "CONSTRICT",
+  "ACID",
+  "BUBBLE_BEAM",
+  "WRAP",
+  "BARRIER",
+  "SCREECH",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("GEODUDE",(
+  "TACKLE",
+  "DEFENSE_CURL",
+  "MUD_SPORT",
+  "ROCK_THROW",
+  "MAGNITUDE",
+  "SELF_DESTRUCT",
+  "ROLLOUT",
+  "ROCK_BLAST",
+  "EARTHQUAKE",
+  "EXPLOSION",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("GRAVELER",(
+  "TACKLE",
+  "DEFENSE_CURL",
+  "MUD_SPORT",
+  "ROCK_THROW",
+  "MUD_SPORT",
+  "ROCK_THROW",
+  "MAGNITUDE",
+  "SELF_DESTRUCT",
+  "ROLLOUT",
+  "ROCK_BLAST",
+  "EARTHQUAKE",
+  "EXPLOSION",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("GOLEM",(
+  "TACKLE",
+  "DEFENSE_CURL",
+  "MUD_SPORT",
+  "ROCK_THROW",
+  "MUD_SPORT",
+  "ROCK_THROW",
+  "MAGNITUDE",
+  "SELF_DESTRUCT",
+  "ROLLOUT",
+  "ROCK_BLAST",
+  "EARTHQUAKE",
+  "EXPLOSION",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("PONYTA",(
+  "TACKLE",
+  "GROWL",
+  "TAIL_WHIP",
+  "EMBER",
+  "STOMP",
+  "FIRE_SPIN",
+  "TAKE_DOWN",
+  "AGILITY",
+  "BOUNCE",
+  "FIRE_BLAST",
+  )),
+
+
+  ("RAPIDASH",(
+  "TACKLE",
+  "GROWL",
+  "TAIL_WHIP",
+  "EMBER",
+  "GROWL",
+  "TAIL_WHIP",
+  "EMBER",
+  "STOMP",
+  "FIRE_SPIN",
+  "TAKE_DOWN",
+  "AGILITY",
+  "FURY_ATTACK",
+  "BOUNCE",
+  "FIRE_BLAST",
+  )),
+
+
+  ("SLOWPOKE",(
+  "CURSE",
+  "YAWN",
+  "TACKLE",
+  "GROWL",
+  "WATER_GUN",
+  "CONFUSION",
+  "DISABLE",
+  "HEADBUTT",
+  "AMNESIA",
+  "PSYCHIC",
+  )),
+
+
+  ("SLOWBRO",(
+  "CURSE",
+  "YAWN",
+  "TACKLE",
+  "GROWL",
+  "GROWL",
+  "WATER_GUN",
+  "CONFUSION",
+  "DISABLE",
+  "HEADBUTT",
+  "WITHDRAW",
+  "AMNESIA",
+  "PSYCHIC",
+  )),
+
+
+  ("MAGNEMITE",(
+  "METAL_SOUND",
+  "TACKLE",
+  "THUNDER_SHOCK",
+  "SUPERSONIC",
+  "SONIC_BOOM",
+  "THUNDER_WAVE",
+  "SPARK",
+  "LOCK_ON",
+  "SWIFT",
+  "SCREECH",
+  "ZAP_CANNON",
+  )),
+
+
+  ("MAGNETON",(
+  "METAL_SOUND",
+  "TACKLE",
+  "THUNDER_SHOCK",
+  "SUPERSONIC",
+  "THUNDER_SHOCK",
+  "SUPERSONIC",
+  "SONIC_BOOM",
+  "THUNDER_WAVE",
+  "SPARK",
+  "LOCK_ON",
+  "TRI_ATTACK",
+  "SCREECH",
+  "ZAP_CANNON",
+  )),
+
+
+  ("FARFETCHD",(
+  "PECK",
+  "SAND_ATTACK",
+  "LEER",
+  "FURY_ATTACK",
+  "KNOCK_OFF",
+  "FURY_CUTTER",
+  "SWORDS_DANCE",
+  "AGILITY",
+  "SLASH",
+  "FALSE_SWIPE",
+  )),
+
+
+  ("DODUO",(
+  "PECK",
+  "GROWL",
+  "PURSUIT",
+  "FURY_ATTACK",
+  "RAGE",
+  "TRI_ATTACK",
+  "UPROAR",
+  "DRILL_PECK",
+  "AGILITY",
+  )),
+
+
+  ("DODRIO",(
+  "PECK",
+  "GROWL",
+  "PURSUIT",
+  "FURY_ATTACK",
+  "PURSUIT",
+  "FURY_ATTACK",
+
+  "AGILITY",
+  "TRI_ATTACK",
+  "RAGE",
+  "UPROAR",
+  "DRILL_PECK",
+  )),
+
+
+  ("SEEL",(
+
+  "SAFEGUARD",
+  "GROWL",
+  "ICY_WIND",
+  "AURORA_BEAM",
+  "REST",
+  "TAKE_DOWN",
+  "ICE_BEAM",
+  "HEADBUTT",
+  )),
+
+
+  ("DEWGONG",(
+  "HEADBUTT",
+  "GROWL",
+  "ICY_WIND",
+  "AURORA_BEAM",
+  "GROWL",
+  "ICY_WIND",
+  "AURORA_BEAM",
+  "REST",
+  "SHEER_COLD",
+  "TAKE_DOWN",
+  "ICE_BEAM",
+  "SAFEGUARD",
+  )),
+
+
+  ("GRIMER",(
+  "POISON_GAS",
+  "POUND",
+  "HARDEN",
+  "DISABLE",
+  "SLUDGE",
+  "MINIMIZE",
+  "SCREECH",
+  "ACID_ARMOR",
+  "SLUDGE_BOMB",
+  "MEMENTO",
+  )),
+
+
+  ("MUK",(
+  "POISON_GAS",
+  "POUND",
+  "HARDEN",
+  "HARDEN",
+  "DISABLE",
+  "SLUDGE",
+  "MINIMIZE",
+  "SCREECH",
+  "ACID_ARMOR",
+  "SLUDGE_BOMB",
+  "MEMENTO",
+  )),
+
+
+  ("SHELLDER",(
+  "TACKLE",
+  "WITHDRAW",
+  "SUPERSONIC",
+  "AURORA_BEAM",
+  "PROTECT",
+  "LEER",
+  "CLAMP",
+  "ICE_BEAM",
+  )),
+
+
+  ("CLOYSTER",(
+  "WITHDRAW",
+  "SUPERSONIC",
+  "AURORA_BEAM",
+  "PROTECT",
+  "SPIKES",
+  "SPIKE_CANNON",
+  )),
+
+
+  ("GASTLY",(
+  "HYPNOSIS",
+
+  "SPITE",
+  "MEAN_LOOK",
+  "CURSE",
+  "NIGHT_SHADE",
+  "CONFUSE_RAY",
+  "DREAM_EATER",
+  "DESTINY_BOND",
+  "LICK",
+  )),
+
+
+  ("HAUNTER",(
+  "HYPNOSIS",
+  "LICK",
+  "SPITE",
+  "SPITE",
+  "MEAN_LOOK",
+  "CURSE",
+  "NIGHT_SHADE",
+  "SHADOW_PUNCH",
+  "CONFUSE_RAY",
+  "DREAM_EATER",
+  "DESTINY_BOND",
+  )),
+
+
+  ("GENGAR",(
+  "HYPNOSIS",
+  "LICK",
+  "SPITE",
+  "SPITE",
+  "MEAN_LOOK",
+  "CURSE",
+  "NIGHT_SHADE",
+  "SHADOW_PUNCH",
+  "CONFUSE_RAY",
+  "DREAM_EATER",
+  "DESTINY_BOND",
+  )),
+
+
+  ("ONIX",(
+  "TACKLE",
+  "SCREECH",
+  "BIND",
+  "ROCK_THROW",
+  "HARDEN",
+  "RAGE",
+  "SANDSTORM",
+  "SLAM",
+  "IRON_TAIL",
+  "SAND_TOMB",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("DROWZEE",(
+  "POUND",
+  "HYPNOSIS",
+  "DISABLE",
+  "CONFUSION",
+  "HEADBUTT",
+  "POISON_GAS",
+  "MEDITATE",
+  "PSYCHIC",
+  "PSYCH_UP",
+  "FUTURE_SIGHT",
+  )),
+
+
+  ("HYPNO",(
+  "POUND",
+  "HYPNOSIS",
+  "DISABLE",
+  "CONFUSION",
+  "DISABLE",
+  "CONFUSION",
+  "HEADBUTT",
+  "POISON_GAS",
+  "MEDITATE",
+  "PSYCHIC",
+  "PSYCH_UP",
+  "FUTURE_SIGHT",
+  )),
+
+
+  ("KRABBY",(
+  "BUBBLE",
+  "LEER",
+  "VICE_GRIP",
+  "HARDEN",
+  "MUD_SHOT",
+  "STOMP",
+  "GUILLOTINE",
+  "PROTECT",
+  "CRABHAMMER",
+  )),
+
+
+  ("KINGLER",(
+  "BUBBLE",
+  "LEER",
+  "VICE_GRIP",
+  "LEER",
+  "VICE_GRIP",
+  "HARDEN",
+  "MUD_SHOT",
+  "STOMP",
+  "GUILLOTINE",
+  "PROTECT",
+  "CRABHAMMER",
+  )),
+
+
+  ("VOLTORB",(
+  "CHARGE",
+  "TACKLE",
+  "SCREECH",
+  "SONIC_BOOM",
+  "SPARK",
+  "SELF_DESTRUCT",
+  "ROLLOUT",
+  "LIGHT_SCREEN",
+  "SWIFT",
+  "EXPLOSION",
+  "MIRROR_COAT",
+  )),
+
+
+  ("ELECTRODE",(
+  "CHARGE",
+  "TACKLE",
+  "SCREECH",
+  "SONIC_BOOM",
+  "SCREECH",
+  "SONIC_BOOM",
+  "SPARK",
+  "SELF_DESTRUCT",
+  "ROLLOUT",
+  "LIGHT_SCREEN",
+  "SWIFT",
+  "EXPLOSION",
+  "MIRROR_COAT",
+  )),
+
+
+  ("EXEGGCUTE",(
+  "BARRAGE",
+  "UPROAR",
+  "HYPNOSIS",
+  "REFLECT",
+  "LEECH_SEED",
+  "CONFUSION",
+  "STUN_SPORE",
+  "POISON_POWDER",
+  "SLEEP_POWDER",
+  "SOLAR_BEAM",
+  )),
+
+
+  ("EXEGGUTOR",(
+  "BARRAGE",
+  "HYPNOSIS",
+  "CONFUSION",
+  "STOMP",
+  "EGG_BOMB",
+  )),
+
+
+  ("CUBONE",(
+  "GROWL",
+  "TAIL_WHIP",
+  "BONE_CLUB",
+  "HEADBUTT",
+  "LEER",
+  "FOCUS_ENERGY",
+  "BONEMERANG",
+  "RAGE",
+  "FALSE_SWIPE",
+  "THRASH",
+  "BONE_RUSH",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("MAROWAK",(
+  "GROWL",
+  "TAIL_WHIP",
+  "BONE_CLUB",
+  "HEADBUTT",
+  "TAIL_WHIP",
+  "BONE_CLUB",
+  "HEADBUTT",
+  "LEER",
+  "FOCUS_ENERGY",
+  "BONEMERANG",
+  "RAGE",
+  "FALSE_SWIPE",
+  "THRASH",
+  "BONE_RUSH",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("HITMONLEE",(
+  "REVENGE",
+  "DOUBLE_KICK",
+  "MEDITATE",
+  "ROLLING_KICK",
+  "JUMP_KICK",
+  "BRICK_BREAK",
+  "FOCUS_ENERGY",
+  "HI_JUMP_KICK",
+  "MIND_READER",
+  "FORESIGHT",
+  "ENDURE",
+  "MEGA_KICK",
+  "REVERSAL",
+  )),
+
+
+  ("HITMONCHAN",(
+  "REVENGE",
+  "COMET_PUNCH",
+  "AGILITY",
+  "PURSUIT",
+  "MACH_PUNCH",
+  "THUNDER_PUNCH",
+  "ICE_PUNCH",
+  "FIRE_PUNCH",
+  "SKY_UPPERCUT",
+  "MEGA_PUNCH",
+  "DETECT",
+  "COUNTER",
+  )),
+
+
+  ("LICKITUNG",(
+  "LICK",
+  "SUPERSONIC",
+  "DEFENSE_CURL",
+  "KNOCK_OFF",
+  "STOMP",
+  "WRAP",
+  "DISABLE",
+  "SLAM",
+  "SCREECH",
+  "REFRESH",
+  )),
+
+
+  ("KOFFING",(
+  "POISON_GAS",
+  "TACKLE",
+  "SMOG",
+  "SELF_DESTRUCT",
+  "SLUDGE",
+  "SMOKESCREEN",
+  "HAZE",
+  "EXPLOSION",
+  "DESTINY_BOND",
+  "MEMENTO",
+  )),
+
+
+  ("WEEZING",(
+  "POISON_GAS",
+  "TACKLE",
+  "SMOG",
+  "SELF_DESTRUCT",
+  "SMOG",
+  "SELF_DESTRUCT",
+  "SLUDGE",
+  "SMOKESCREEN",
+  "HAZE",
+  "EXPLOSION",
+  "DESTINY_BOND",
+  "MEMENTO",
+  )),
+
+
+  ("RHYHORN",(
+  "HORN_ATTACK",
+  "TAIL_WHIP",
+  "STOMP",
+  "FURY_ATTACK",
+  "SCARY_FACE",
+  "ROCK_BLAST",
+  "HORN_DRILL",
+  "TAKE_DOWN",
+  "EARTHQUAKE",
+  "MEGAHORN",
+  )),
+
+
+  ("RHYDON",(
+  "HORN_ATTACK",
+  "TAIL_WHIP",
+  "STOMP",
+  "FURY_ATTACK",
+  "STOMP",
+  "FURY_ATTACK",
+  "SCARY_FACE",
+  "ROCK_BLAST",
+  "HORN_DRILL",
+  "TAKE_DOWN",
+  "EARTHQUAKE",
+  "MEGAHORN",
+  )),
+
+
+  ("CHANSEY",(
+  "POUND",
+  "GROWL",
+  "TAIL_WHIP",
+  "REFRESH",
+  "SOFT_BOILED",
+  "DOUBLE_SLAP",
+  "MINIMIZE",
+  "SING",
+  "EGG_BOMB",
+  "DEFENSE_CURL",
+  "LIGHT_SCREEN",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("TANGELA",(
+  "INGRAIN",
+  "CONSTRICT",
+  "SLEEP_POWDER",
+  "ABSORB",
+  "GROWTH",
+  "POISON_POWDER",
+  "VINE_WHIP",
+  "BIND",
+  "MEGA_DRAIN",
+  "STUN_SPORE",
+  "SLAM",
+  "TICKLE",
+  )),
+
+
+  ("KANGASKHAN",(
+  "COMET_PUNCH",
+  "LEER",
+  "BITE",
+  "TAIL_WHIP",
+  "FAKE_OUT",
+  "MEGA_PUNCH",
+  "RAGE",
+  "ENDURE",
+  "DIZZY_PUNCH",
+  "REVERSAL",
+  )),
+
+
+  ("HORSEA",(
+  "BUBBLE",
+  "SMOKESCREEN",
+  "LEER",
+  "WATER_GUN",
+  "TWISTER",
+  "AGILITY",
+  "HYDRO_PUMP",
+  "DRAGON_DANCE",
+  )),
+
+
+  ("SEADRA",(
+  "BUBBLE",
+  "SMOKESCREEN",
+  "LEER",
+  "WATER_GUN",
+  "SMOKESCREEN",
+  "LEER",
+  "WATER_GUN",
+  "TWISTER",
+  "AGILITY",
+  "HYDRO_PUMP",
+  "DRAGON_DANCE",
+  )),
+
+
+  ("GOLDEEN",(
+  "PECK",
+  "TAIL_WHIP",
+  "WATER_SPORT",
+  "SUPERSONIC",
+  "HORN_ATTACK",
+  "FLAIL",
+  "FURY_ATTACK",
+  "WATERFALL",
+  "HORN_DRILL",
+  "AGILITY",
+  )),
+
+
+  ("SEAKING",(
+  "PECK",
+  "TAIL_WHIP",
+  "WATER_SPORT",
+  "SUPERSONIC",
+  "SUPERSONIC",
+  "HORN_ATTACK",
+  "FLAIL",
+  "FURY_ATTACK",
+  "WATERFALL",
+  "HORN_DRILL",
+  "AGILITY",
+  )),
+
+
+  ("STARYU",(
+  "TACKLE",
+  "HARDEN",
+  "WATER_GUN",
+  "RAPID_SPIN",
+  "RECOVER",
+  "CAMOUFLAGE",
+  "SWIFT",
+  "BUBBLE_BEAM",
+  "MINIMIZE",
+  "LIGHT_SCREEN",
+  "COSMIC_POWER",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("STARMIE",(
+  "WATER_GUN",
+  "RAPID_SPIN",
+  "RECOVER",
+  "SWIFT",
+  "CONFUSE_RAY",
+  )),
+
+
+  ("MR_MIME",(
+  "BARRIER",
+  "CONFUSION",
+  "SUBSTITUTE",
+  "MEDITATE",
+  "DOUBLE_SLAP",
+  "LIGHT_SCREEN",
+  "REFLECT",
+  "ENCORE",
+  "PSYBEAM",
+  "RECYCLE",
+  "TRICK",
+  "ROLE_PLAY",
+  "PSYCHIC",
+  "BATON_PASS",
+  "SAFEGUARD",
+  )),
+
+  ("SCYTHER",(
+  "QUICK_ATTACK",
+  "LEER",
+  "FOCUS_ENERGY",
+  "PURSUIT",
+  "FALSE_SWIPE",
+  "AGILITY",
+  "WING_ATTACK",
+  "SLASH",
+  "SWORDS_DANCE",
+  "DOUBLE_TEAM",
+  "FURY_CUTTER",
+  )),
+
+
+  ("JYNX",(
+  "POUND",
+  "LICK",
+  "LOVELY_KISS",
+  "POWDER_SNOW",
+  "LOVELY_KISS",
+  "POWDER_SNOW",
+  "DOUBLE_SLAP",
+  "ICE_PUNCH",
+  "MEAN_LOOK",
+  "FAKE_TEARS",
+  "BODY_SLAM",
+  "PERISH_SONG",
+  "BLIZZARD",
+  )),
+
+
+  ("ELECTABUZZ",(
+  "QUICK_ATTACK",
+  "LEER",
+  "THUNDER_PUNCH",
+  "THUNDER_PUNCH",
+  "LIGHT_SCREEN",
+  "SWIFT",
+  "SCREECH",
+  "THUNDERBOLT",
+  "THUNDER",
+  )),
+
+
+  ("MAGMAR",(
+  "EMBER",
+  "LEER",
+  "SMOG",
+  "FIRE_PUNCH",
+  "LEER",
+  "SMOG",
+  "FIRE_PUNCH",
+  "SMOKESCREEN",
+  "SUNNY_DAY",
+  "FLAMETHROWER",
+  "CONFUSE_RAY",
+  "FIRE_BLAST",
+  )),
+
+
+  ("PINSIR",(
+  "VICE_GRIP",
+  "FOCUS_ENERGY",
+  "BIND",
+  "SEISMIC_TOSS",
+  "HARDEN",
+  "REVENGE",
+  "BRICK_BREAK",
+  "GUILLOTINE",
+  "SUBMISSION",
+  "SWORDS_DANCE",
+  )),
+
+
+  ("TAUROS",(
+  "TACKLE",
+  "TAIL_WHIP",
+  "RAGE",
+  "HORN_ATTACK",
+  "SCARY_FACE",
+  "PURSUIT",
+  "REST",
+  "THRASH",
+  "TAKE_DOWN",
+  )),
+
+
+  ("MAGIKARP",(
+  "SPLASH",
+  "DRAGON_RAGE",
+  "FLAIL",
+  "HYDROPUMP",
+  )),
+
+
+  ("GYARADOS",(
+  "THRASH",
+  "BITE",
+  "DRAGON_RAGE",
+  "LEER",
+
+  "HYPER_BEAM",
+  "DRAGON_CLAW",
+  "HYDRO_PUMP",
+  "RAIN_DANCE",
+  "DRAGON_DANCE",
+  )),
+
+
+  ("LAPRAS",(
+  "WATER_GUN",
+  "GROWL",
+  "SING",
+  "MIST",
+  "BODY_SLAM",
+  "CONFUSE_RAY",
+  "PERISH_SONG",
+  "ICE_BEAM",
+  "RAIN_DANCE",
+  "SAFEGUARD",
+  "HYDRO_PUMP",
+  "SHEER_COLD",
+  )),
+
+
+  ("DITTO",(
+  "ACID_ARMOR",
+  "MINIMIZE",
+  "BODYSLAM",
+  "EXPLOSION"
+  )),
+
+
+  ("EEVEE",(
+  "TACKLE",
+  "TAIL_WHIP",
+  "HELPING_HAND",
+  "SAND_ATTACK",
+  "GROWL",
+  "QUICK_ATTACK",
+  "BITE",
+  "BATON_PASS",
+  "TAKE_DOWN",
+  )),
+
+
+  ("VAPOREON",(
+  "TACKLE",
+  "TAIL_WHIP",
+  "HELPING_HAND",
+  "SAND_ATTACK",
+  "WATER_GUN",
+  "QUICK_ATTACK",
+  "BITE",
+  "AURORA_BEAM",
+  "HAZE",
+  "ACID_ARMOR",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("JOLTEON",(
+  "TACKLE",
+  "TAIL_WHIP",
+  "HELPING_HAND",
+  "SAND_ATTACK",
+  "THUNDER_SHOCK",
+  "QUICK_ATTACK",
+  "DOUBLE_KICK",
+  "PIN_MISSILE",
+  "THUNDER_WAVE",
+  "AGILITY",
+  "THUNDER",
+  )),
+
+
+  ("FLAREON",(
+  "TACKLE",
+  "TAIL_WHIP",
+  "HELPING_HAND",
+  "SAND_ATTACK",
+  "EMBER",
+  "QUICK_ATTACK",
+  "BITE",
+  "FIRE_SPIN",
+  "SMOG",
+  "LEER",
+  "FLAMETHROWER",
+  )),
+
+
+  ("PORYGON",(
+  "CONVERSION_",
+  "TACKLE",
+  "CONVERSION",
+  "AGILITY",
+  "PSYBEAM",
+  "RECOVER",
+  "SHARPEN",
+  "LOCK_ON",
+  "TRI_ATTACK",
+  "RECYCLE",
+  "ZAP_CANNON",
+  )),
+
+  ("PORYGON2",(
+  "CONVERSION_",
+  "TACKLE",
+  "CONVERSION",
+  "AGILITY",
+  "PSYBEAM",
+  "RECOVER",
+  "SHARPEN",
+  "LOCK_ON",
+  "TRI_ATTACK",
+  "RECYCLE",
+  "ZAP_CANNON",
+  )),
+  ("OMANYTE",(
+  "CONSTRICT",
+  "WITHDRAW",
+  "BITE",
+  "WATER_GUN",
+  "MUD_SHOT",
+  "LEER",
+  "PROTECT",
+  "TICKLE",
+  "ANCIENT_POWER",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("OMASTAR",(
+  "CONSTRICT",
+  "WITHDRAW",
+  "BITE",
+  "BITE",
+  "WATER_GUN",
+  "MUD_SHOT",
+  "LEER",
+  "PROTECT",
+  "SPIKE_CANNON",
+  "TICKLE",
+  "ANCIENT_POWER",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("KABUTO",(
+  "SCRATCH",
+  "HARDEN",
+  "ABSORB",
+  "LEER",
+  "MUD_SHOT",
+  "SAND_ATTACK",
+  "ENDURE",
+  "METAL_SOUND",
+  "MEGA_DRAIN",
+  "ANCIENT_POWER",
+  )),
+
+
+  ("KABUTOPS",(
+  "SCRATCH",
+  "HARDEN",
+  "ABSORB",
+  "ABSORB",
+  "LEER",
+  "MUD_SHOT",
+  "SAND_ATTACK",
+  "ENDURE",
+  "SLASH",
+  "METAL_SOUND",
+  "MEGA_DRAIN",
+  "ANCIENT_POWER",
+  )),
+
+
+  ("AERODACTYL",(
+  "WING_ATTACK",
+  "AGILITY",
+  "BITE",
+  "SUPERSONIC",
+  "ANCIENT_POWER",
+  "SCARY_FACE",
+  "TAKE_DOWN",
+  "HYPER_BEAM",
+  )),
+
+
+  ("SNORLAX",(
+  "TACKLE",
+  "AMNESIA",
+  "DEFENSE_CURL",
+  "BELLY_DRUM",
+  "HEADBUTT",
+  "YAWN",
+  "REST",
+  "SNORE",
+  "BODY_SLAM",
+  "BLOCK",
+  "COVET",
+  "ROLLOUT",
+  "HYPER_BEAM",
+  )),
+
+
+
+
+
+  ("DRATINI",(
+  "WRAP",
+  "LEER",
+  "THUNDER_WAVE",
+  "TWISTER",
+  "DRAGON_RAGE",
+  "SLAM",
+  "AGILITY",
+  "SAFEGUARD",
+  "OUTRAGE",
+  "HYPER_BEAM",
+  )),
+
+
+  ("DRAGONAIR",(
+  "WRAP",
+  "LEER",
+  "THUNDER_WAVE",
+  "TWISTER",
+  "TWISTER",
+  "DRAGON_RAGE",
+  "SLAM",
+  "AGILITY",
+  "SAFEGUARD",
+  "THUNDER_WAVE",
+  "OUTRAGE",
+  "HYPER_BEAM",
+  )),
+
+
+  ("DRAGONITE",(
+  "WRAP",
+  "LEER",
+  "THUNDER_WAVE",
+  "TWISTER",
+  "THUNDER_WAVE",
+  "TWISTER",
+  "DRAGON_RAGE",
+  "SLAM",
+  "AGILITY",
+  "SAFEGUARD",
+  "WING_ATTACK",
+  "OUTRAGE",
+  "HYPER_BEAM",
+  )),
+
+
+
+
+
+
+
+
+  ("CHIKORITA",(
+  "TACKLE",
+  "GROWL",
+  "RAZOR_LEAF",
+  "REFLECT",
+  "POISON_POWDER",
+  "SYNTHESIS",
+  "BODY_SLAM",
+  "LIGHT_SCREEN",
+  "SAFEGUARD",
+  "SOLAR_BEAM",
+  )),
+
+
+  ("BAYLEEF",(
+  "TACKLE",
+  "GROWL",
+  "RAZOR_LEAF",
+  "REFLECT",
+  "RAZOR_LEAF",
+  "REFLECT",
+  "POISON_POWDER",
+  "SYNTHESIS",
+  "BODY_SLAM",
+  "LIGHT_SCREEN",
+  "SAFEGUARD",
+  "SOLAR_BEAM",
+  )),
+
+
+  ("MEGANIUM",(
+  "TACKLE",
+  "GROWL",
+  "RAZOR_LEAF",
+  "REFLECT",
+  "RAZOR_LEAF",
+  "REFLECT",
+  "POISON_POWDER",
+  "SYNTHESIS",
+  "BODY_SLAM",
+  "LIGHT_SCREEN",
+  "SAFEGUARD",
+  "SOLAR_BEAM",
+  )),
+
+
+  ("CYNDAQUIL",(
+  "TACKLE",
+  "LEER",
+  "SMOKESCREEN",
+  "EMBER",
+  "QUICK_ATTACK",
+  "FLAME_WHEEL",
+  "SWIFT",
+  "FLAMETHROWER",
+  )),
+
+
+  ("QUILAVA",(
+  "TACKLE",
+  "LEER",
+  "SMOKESCREEN",
+  "SMOKESCREEN",
+  "EMBER",
+  "QUICK_ATTACK",
+  "FLAME_WHEEL",
+  "SWIFT",
+  "FLAMETHROWER",
+  )),
+
+
+  ("TYPHLOSION",(
+  "TACKLE",
+  "LEER",
+  "SMOKESCREEN",
+  "EMBER",
+  "SMOKESCREEN",
+  "EMBER",
+  "QUICK_ATTACK",
+  "FLAME_WHEEL",
+  "SWIFT",
+  "FLAMETHROWER",
+  )),
+
+
+  ("TOTODILE",(
+  "SCRATCH",
+  "LEER",
+  "RAGE",
+  "WATER_GUN",
+  "BITE",
+  "SCARY_FACE",
+  "SLASH",
+  "SCREECH",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("CROCONAW",(
+  "SCRATCH",
+  "LEER",
+  "RAGE",
+  "RAGE",
+  "WATER_GUN",
+  "BITE",
+  "SCARY_FACE",
+  "SLASH",
+  "SCREECH",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("FERALIGATR",(
+  "SCRATCH",
+  "LEER",
+  "RAGE",
+  "WATER_GUN",
+  "RAGE",
+  "WATER_GUN",
+  "BITE",
+  "SCARY_FACE",
+  "SLASH",
+  "SCREECH",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("SENTRET",(
+  "SCRATCH",
+  "DEFENSE_CURL",
+  "QUICK_ATTACK",
+  "FURY_SWIPES",
+  "HELPING_HAND",
+  "SLAM",
+  "FOLLOW_ME",
+  "REST",
+  "AMNESIA",
+  )),
+
+
+  ("FURRET",(
+  "SCRATCH",
+  "DEFENSE_CURL",
+  "QUICK_ATTACK",
+  "DEFENSE_CURL",
+  "QUICK_ATTACK",
+  "FURY_SWIPES",
+  "HELPING_HAND",
+  "SLAM",
+  "FOLLOW_ME",
+  "REST",
+  "AMNESIA",
+  )),
+
+
+  ("HOOTHOOT",(
+  "TACKLE",
+  "GROWL",
+  "FORESIGHT",
+  "PECK",
+  "HYPNOSIS",
+  "REFLECT",
+  "TAKE_DOWN",
+  "CONFUSION",
+  "DREAM_EATER",
+  )),
+
+
+  ("NOCTOWL",(
+  "TACKLE",
+  "GROWL",
+  "FORESIGHT",
+  "PECK",
+  "FORESIGHT",
+  "PECK",
+  "HYPNOSIS",
+  "REFLECT",
+  "TAKE_DOWN",
+  "CONFUSION",
+  "DREAM_EATER",
+  )),
+
+
+  ("LEDYBA",(
+  "TACKLE",
+  "SUPERSONIC",
+  "COMET_PUNCH",
+  "LIGHT_SCREEN",
+  "REFLECT",
+  "SAFEGUARD",
+  "BATON_PASS",
+  "SWIFT",
+  "AGILITY",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("LEDIAN",(
+  "TACKLE",
+  "SUPERSONIC",
+  "SUPERSONIC",
+  "COMET_PUNCH",
+  "LIGHT_SCREEN",
+  "REFLECT",
+  "SAFEGUARD",
+  "BATON_PASS",
+  "SWIFT",
+  "AGILITY",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("SPINARAK",(
+  "POISON_STING",
+  "STRING_SHOT",
+  "SCARY_FACE",
+  "CONSTRICT",
+  "NIGHT_SHADE",
+  "LEECH_LIFE",
+  "FURY_SWIPES",
+  "SPIDER_WEB",
+  "AGILITY",
+  "PSYCHIC",
+  )),
+
+
+  ("ARIADOS",(
+  "POISON_STING",
+  "STRING_SHOT",
+  "SCARY_FACE",
+  "CONSTRICT",
+  "SCARY_FACE",
+  "CONSTRICT",
+  "NIGHT_SHADE",
+  "LEECH_LIFE",
+  "FURY_SWIPES",
+  "SPIDER_WEB",
+  "AGILITY",
+  "PSYCHIC",
+  )),
+
+
+  ("CROBAT",(
+  "SCREECH",
+
+  "SUPERSONIC",
+  "ASTONISH",
+  "SUPERSONIC",
+  "ASTONISH",
+  "BITE",
+  "HAZE",
+
+  "CONFUSE_RAY",
+  "AIR_CUTTER",
+  "MEAN_LOOK",
+  "POISON_FANG",
+  "LEECH_LIFE",
+  "WING_ATTACK",
+  )),
+
+
+  ("CHINCHOU",(
+  "BUBBLE",
+  "THUNDER_WAVE",
+  "SUPERSONIC",
+  "FLAIL",
+  "WATER_GUN",
+  "SPARK",
+  "CONFUSE_RAY",
+  "TAKE_DOWN",
+  "HYDRO_PUMP",
+  "CHARGE",
+  )),
+
+
+  ("LANTURN",(
+  "BUBBLE",
+  "THUNDER_WAVE",
+  "SUPERSONIC",
+  "SUPERSONIC",
+  "FLAIL",
+  "WATER_GUN",
+  "SPARK",
+  "CONFUSE_RAY",
+  "TAKE_DOWN",
+  "HYDRO_PUMP",
+  "CHARGE",
+  )),
+
+
+  ("PICHU",(
+  "THUNDER_SHOCK",
+  "CHARM",
+  "TAIL_WHIP",
+  "THUNDER_WAVE",
+  "SWEET_KISS",
+  )),
+
+
+  ("CLEFFA",(
+  "POUND",
+  "CHARM",
+  "ENCORE",
+  "SING",
+  "SWEET_KISS",
+  )),
+
+
+  ("IGGLYBUFF",(
+  "SING",
+  "CHARM",
+  "DEFENSE_CURL",
+  "POUND",
+  "SWEET_KISS",
+  )),
+
+
+  ("TOGEPI",(
+  "GROWL",
+  "CHARM",
+  "METRONOME",
+  "SWEET_KISS",
+  "YAWN",
+  "ENCORE",
+  "FOLLOW_ME",
+  "WISH",
+  "SAFEGUARD",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("TOGETIC",(
+  "GROWL",
+  "CHARM",
+  "METRONOME",
+  "SWEET_KISS",
+  "YAWN",
+  "ENCORE",
+  "FOLLOW_ME",
+  "WISH",
+  "SAFEGUARD",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("NATU",(
+  "PECK",
+  "LEER",
+  "NIGHT_SHADE",
+  "TELEPORT",
+  "WISH",
+  "FUTURE_SIGHT",
+  "CONFUSE_RAY",
+  "PSYCHIC",
+  )),
+
+
+  ("XATU",(
+  "PECK",
+  "LEER",
+  "NIGHT_SHADE",
+  "TELEPORT",
+  "WISH",
+  "FUTURE_SIGHT",
+  "CONFUSE_RAY",
+  "PSYCHIC",
+  )),
+
+
+  ("MAREEP",(
+  "TACKLE",
+  "GROWL",
+  "THUNDER_SHOCK",
+  "THUNDER_WAVE",
+  "COTTON_SPORE",
+  "LIGHT_SCREEN",
+  "THUNDER",
+  )),
+
+
+  ("FLAAFFY",(
+  "TACKLE",
+  "GROWL",
+  "THUNDER_SHOCK",
+  "THUNDER_SHOCK",
+  "THUNDER_WAVE",
+  "COTTON_SPORE",
+  "LIGHT_SCREEN",
+  "THUNDER",
+  )),
+
+
+  ("AMPHAROS",(
+  "TACKLE",
+  "GROWL",
+  "THUNDER_SHOCK",
+  "THUNDER_WAVE",
+  "THUNDER_SHOCK",
+  "THUNDER_WAVE",
+  "COTTON_SPORE",
+  "THUNDER_PUNCH",
+  "LIGHT_SCREEN",
+  "THUNDER",
+  )),
+
+
+  ("BELLOSSOM",(
+  "ABSORB",
+  "SWEET_SCENT",
+  "STUN_SPORE",
+  "MAGICAL_LEAF",
+  "PETAL_DANCE",
+  "SOLAR_BEAM",
+  )),
+
+
+  ("MARILL",(
+  "TACKLE",
+  "DEFENSE_CURL",
+  "TAIL_WHIP",
+  "WATER_GUN",
+  "ROLLOUT",
+  "BUBBLE_BEAM",
+  "DOUBLE_EDGE",
+  "RAIN_DANCE",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("AZUMARILL",(
+  "TACKLE",
+  "DEFENSE_CURL",
+  "TAIL_WHIP",
+  "WATER_GUN",
+  "DEFENSE_CURL",
+  "TAIL_WHIP",
+  "WATER_GUN",
+  "ROLLOUT",
+  "BUBBLE_BEAM",
+  "DOUBLE_EDGE",
+  "RAIN_DANCE",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("SUDOWOODO",(
+  "ROCK_THROW",
+  "MIMIC",
+  "FLAIL",
+  "LOW_KICK",
+  "ROCK_SLIDE",
+  "BLOCK",
+  "FAINT_ATTACK",
+  "SLAM",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("POLITOED",(
+  "WATER_GUN",
+  "HYPNOSIS",
+  "DOUBLE_SLAP",
+  "PERISH_SONG",
+  "PERISH_SONG",
+  "SWAGGER",
+  )),
+
+
+  ("HOPPIP",(
+  "SPLASH",
+  "SYNTHESIS",
+  "TAIL_WHIP",
+  "TACKLE",
+  "POISON_POWDER",
+  "STUN_SPORE",
+  "SLEEP_POWDER",
+  "LEECH_SEED",
+  "COTTON_SPORE",
+  "MEGA_DRAIN",
+  )),
+
+
+  ("SKIPLOOM",(
+  "SPLASH",
+  "SYNTHESIS",
+  "TAIL_WHIP",
+  "TACKLE",
+  "SYNTHESIS",
+  "TAIL_WHIP",
+  "TACKLE",
+  "POISON_POWDER",
+  "STUN_SPORE",
+  "SLEEP_POWDER",
+  "LEECH_SEED",
+  "COTTON_SPORE",
+  "MEGA_DRAIN",
+  )),
+
+
+  ("JUMPLUFF",(
+  "SPLASH",
+  "SYNTHESIS",
+  "TAIL_WHIP",
+  "TACKLE",
+  "SYNTHESIS",
+  "TAIL_WHIP",
+  "TACKLE",
+  "POISON_POWDER",
+  "STUN_SPORE",
+  "SLEEP_POWDER",
+  "LEECH_SEED",
+  "COTTON_SPORE",
+  "MEGA_DRAIN",
+  )),
+
+
+  ("AIPOM",(
+  "SCRATCH",
+  "TAIL_WHIP",
+  "SAND_ATTACK",
+  "ASTONISH",
+  "BATON_PASS",
+  "TICKLE",
+  "FURY_SWIPES",
+  "SWIFT",
+  "SCREECH",
+  "AGILITY",
+  )),
+
+
+  ("SUNKERN",(
+  "ABSORB",
+  "GROWTH",
+  "MEGA_DRAIN",
+  "INGRAIN",
+  "ENDEAVOR",
+  "SUNNY_DAY",
+  "SYNTHESIS",
+  "GIGA_DRAIN",
+  )),
+
+
+  ("SUNFLORA",(
+  "ABSORB",
+  "POUND",
+  "GROWTH",
+  "RAZOR_LEAF",
+  "INGRAIN",
+  "BULLET_SEED",
+  "SUNNY_DAY",
+  "PETAL_DANCE",
+  "SOLAR_BEAM",
+  )),
+
+
+  ("YANMA",(
+  "TACKLE",
+  "FORESIGHT",
+  "QUICK_ATTACK",
+  "DOUBLE_TEAM",
+  "SONIC_BOOM",
+  "DETECT",
+  "SUPERSONIC",
+  "UPROAR",
+  "WING_ATTACK",
+  "SCREECH",
+  )),
+
+
+  ("WOOPER",(
+  "WATER_GUN",
+  "TAIL_WHIP",
+  "SLAM",
+  "MUD_SHOT",
+  "AMNESIA",
+  "YAWN",
+  "EARTHQUAKE",
+  "RAIN_DANCE",
+  "MIST",
+  "HAZE",
+  )),
+
+
+  ("QUAGSIRE",(
+  "WATER_GUN",
+  "TAIL_WHIP",
+  "SLAM",
+  "MUD_SHOT",
+  "AMNESIA",
+  "YAWN",
+  "EARTHQUAKE",
+  "RAIN_DANCE",
+  "MIST",
+  "HAZE",
+  )),
+
+
+  ("ESPEON",(
+  "TACKLE",
+  "TAIL_WHIP",
+  "HELPING_HAND",
+  "SAND_ATTACK",
+  "CONFUSION",
+  "QUICK_ATTACK",
+  "SWIFT",
+  "PSYBEAM",
+  "PSYCH_UP",
+  "PSYCHIC",
+  "MORNING_SUN",
+  )),
+
+
+  ("UMBREON",(
+  "TACKLE",
+  "TAIL_WHIP",
+  "HELPING_HAND",
+  "SAND_ATTACK",
+  "PURSUIT",
+  "QUICK_ATTACK",
+  "CONFUSE_RAY",
+  "FAINT_ATTACK",
+  "MEAN_LOOK",
+  "SCREECH",
+  "MOONLIGHT",
+  )),
+
+
+  ("MURKROW",(
+  "PECK",
+  "ASTONISH",
+  "PURSUIT",
+  "HAZE",
+  "NIGHT_SHADE",
+  "FAINT_ATTACK",
+  "TAUNT",
+  "MEAN_LOOK",
+  )),
+
+
+  ("SLOWKING",(
+  "CURSE",
+  "YAWN",
+  "TACKLE",
+  "GROWL",
+  "WATER_GUN",
+  "CONFUSION",
+  "DISABLE",
+  "HEADBUTT",
+  "SWAGGER",
+  "PSYCHIC",
+  )),
+
+
+  ("MISDREAVUS",(
+  "GROWL",
+  "PSYWAVE",
+  "SPITE",
+  "ASTONISH",
+  "CONFUSE_RAY",
+  "MEAN_LOOK",
+  "PSYBEAM",
+  "PAIN_SPLIT",
+  "PERISH_SONG",
+  "GRUDGE",
+  )),
+
+
+  ("UNOWN",(
+  "HIDDEN_POWER",
+  "RETURN",
+  "DOUBLE_TEAM",
+  "CALM_MIND"
+
+
+  )),
+
+
+  ("WOBBUFFET",(
+  "COUNTER",
+  "MIRROR_COAT",
+  "SAFEGUARD",
+  "DESTINY_BOND",
+  )),
+
+
+  ("GIRAFARIG",(
+  "TACKLE",
+  "GROWL",
+  "ASTONISH",
+  "CONFUSION",
+  "STOMP",
+  "ODOR_SLEUTH",
+  "AGILITY",
+  "BATON_PASS",
+  "PSYBEAM",
+  "CRUNCH",
+  )),
+
+
+  ("PINECO",(
+  "TACKLE",
+  "PROTECT",
+  "SELF_DESTRUCT",
+  "TAKE_DOWN",
+  "RAPID_SPIN",
+  "BIDE",
+  "EXPLOSION",
+  "SPIKES",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("FORRETRESS",(
+  "TACKLE",
+  "PROTECT",
+  "SELF_DESTRUCT",
+  "SELF_DESTRUCT",
+  "TAKE_DOWN",
+  "RAPID_SPIN",
+  "BIDE",
+  "EXPLOSION",
+  "SPIKES",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("DUNSPARCE",(
+  "RAGE",
+  "DEFENSE_CURL",
+  "YAWN",
+  "GLARE",
+  "SPITE",
+  "PURSUIT",
+  "SCREECH",
+  "TAKE_DOWN",
+  "ENDEAVOR",
+  )),
+
+
+  ("GLIGAR",(
+  "POISON_STING",
+  "SAND_ATTACK",
+  "HARDEN",
+  "QUICK_ATTACK",
+  "FAINT_ATTACK",
+  "SLASH",
+  "SCREECH",
+  "GUILLOTINE",
+  )),
+
+
+  ("STEELIX",(
+  "TACKLE",
+  "SCREECH",
+  "BIND",
+  "ROCK_THROW",
+  "HARDEN",
+  "RAGE",
+  "SANDSTORM",
+  "SLAM",
+  "IRON_TAIL",
+  "CRUNCH",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("SNUBBULL",(
+  "TACKLE",
+  "SCARY_FACE",
+  "TAIL_WHIP",
+  "CHARM",
+  "BITE",
+  "LICK",
+  "ROAR",
+  "RAGE",
+  "TAKE_DOWN",
+  "CRUNCH",
+  )),
+
+
+  ("GRANBULL",(
+  "TACKLE",
+  "SCARY_FACE",
+  "TAIL_WHIP",
+  "CHARM",
+  "BITE",
+  "LICK",
+  "ROAR",
+  "RAGE",
+  "TAKE_DOWN",
+  "CRUNCH",
+  )),
+
+
+  ("QWILFISH",(
+  "SPIKES",
+  "TACKLE",
+  "POISON_STING",
+  "HARDEN",
+  "MINIMIZE",
+  "WATER_GUN",
+  "PIN_MISSILE",
+  "TAKE_DOWN",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("SCIZOR",(
+  "QUICK_ATTACK",
+  "LEER",
+  "FOCUS_ENERGY",
+  "PURSUIT",
+  "FALSE_SWIPE",
+  "AGILITY",
+  "METAL_CLAW",
+  "SLASH",
+  "SWORDS_DANCE",
+  "DOUBLE_TEAM",
+  "FURY_CUTTER",
+  )),
+
+
+  ("SHUCKLE",(
+  "CONSTRICT",
+  "WITHDRAW",
+  "WRAP",
+  "ENCORE",
+  "SAFEGUARD",
+  "BIDE",
+  "REST",
+  )),
+
+
+  ("HERACROSS",(
+  "TACKLE",
+  "LEER",
+  "HORN_ATTACK",
+  "ENDURE",
+  "FURY_ATTACK",
+  "BRICK_BREAK",
+  "COUNTER",
+  "TAKE_DOWN",
+  "REVERSAL",
+  "MEGAHORN",
+  )),
+
+
+  ("SNEASEL",(
+  "SCRATCH",
+  "LEER",
+  "TAUNT",
+  "QUICK_ATTACK",
+  "SCREECH",
+  "FAINT_ATTACK",
+  "FURY_SWIPES",
+  "AGILITY",
+  "ICY_WIND",
+  "SLASH",
+  "BEAT_UP",
+  "METAL_CLAW",
+  )),
+
+
+  ("TEDDIURSA",(
+  "SCRATCH",
+  "LEER",
+  "LICK",
+  "FURY_SWIPES",
+  "FAKE_TEARS",
+  "FAINT_ATTACK",
+  "REST",
+  "SLASH",
+  "SNORE",
+  "THRASH",
+  )),
+
+
+  ("URSARING",(
+  "SCRATCH",
+  "LEER",
+  "LICK",
+  "FURY_SWIPES",
+  "LICK",
+  "FURY_SWIPES",
+  "FAKE_TEARS",
+  "FAINT_ATTACK",
+  "REST",
+  "SLASH",
+  "SNORE",
+  "THRASH",
+  )),
+
+
+  ("SLUGMA",(
+  "YAWN",
+  "SMOG",
+  "EMBER",
+  "ROCK_THROW",
+  "HARDEN",
+  "AMNESIA",
+  "FLAMETHROWER",
+  "ROCK_SLIDE",
+  "BODY_SLAM",
+  )),
+
+
+  ("MAGCARGO",(
+  "YAWN",
+  "SMOG",
+  "EMBER",
+  "ROCK_THROW",
+  "EMBER",
+  "ROCK_THROW",
+  "HARDEN",
+  "AMNESIA",
+  "FLAMETHROWER",
+  "ROCK_SLIDE",
+  "BODY_SLAM",
+  )),
+
+
+  ("SWINUB",(
+  "TACKLE",
+  "ODOR_SLEUTH",
+  "POWDER_SNOW",
+  "ENDURE",
+  "TAKE_DOWN",
+  "MIST",
+  "BLIZZARD",
+  "AMNESIA",
+  )),
+
+
+  ("PILOSWINE",(
+  "HORN_ATTACK",
+  "ODOR_SLEUTH",
+  "POWDER_SNOW",
+  "ENDURE",
+  "POWDER_SNOW",
+  "ENDURE",
+  "TAKE_DOWN",
+  "FURY_ATTACK",
+  "MIST",
+  "BLIZZARD",
+  "AMNESIA",
+  )),
+
+
+  ("CORSOLA",(
+  "TACKLE",
+  "HARDEN",
+  "BUBBLE",
+  "RECOVER",
+  "REFRESH",
+  "BUBBLE_BEAM",
+  "SPIKE_CANNON",
+  "ROCK_BLAST",
+  "MIRROR_COAT",
+  "ANCIENT_POWER",
+  )),
+
+
+  ("REMORAID",(
+  "WATER_GUN",
+  "LOCK_ON",
+  "PSYBEAM",
+  "AURORA_BEAM",
+  "BUBBLE_BEAM",
+  "FOCUS_ENERGY",
+  "ICE_BEAM",
+  "HYPER_BEAM",
+  )),
+
+
+  ("OCTILLERY",(
+  "WATER_GUN",
+  "CONSTRICT",
+  "PSYBEAM",
+  "AURORA_BEAM",
+  "BUBBLE_BEAM",
+  "OCTAZOOKA",
+  "FOCUS_ENERGY",
+  "ICE_BEAM",
+  "HYPER_BEAM",
+  )),
+
+
+  ("DELIBIRD",(
+  "BODY_SLAM",
+  "ICE_BEAM",
+  "FLY",
+  "DOUBLE_TEAM",
+
+  )),
+
+
+  ("MANTINE",(
+  "TACKLE",
+  "BUBBLE",
+  "SUPERSONIC",
+  "BUBBLE_BEAM",
+  "TAKE_DOWN",
+  "AGILITY",
+  "WING_ATTACK",
+  "WATER_PULSE",
+  "CONFUSE_RAY",
+  )),
+
+
+  ("SKARMORY",(
+  "LEER",
+  "PECK",
+  "SAND_ATTACK",
+  "SWIFT",
+  "AGILITY",
+  "FURY_ATTACK",
+  "AIR_CUTTER",
+  "STEEL_WING",
+  "SPIKES",
+  "METAL_SOUND",
+  "SKY_ATTACK"
+  )),
+
+
+  ("HOUNDOUR",(
+  "LEER",
+  "EMBER",
+  "HOWL",
+  "SMOG",
+  "ROAR",
+  "BITE",
+  "ODOR_SLEUTH",
+  "FAINT_ATTACK",
+  "FLAMETHROWER",
+  "CRUNCH",
+  )),
+
+
+  ("HOUNDOOM",(
+  "LEER",
+  "EMBER",
+  "HOWL",
+  "HOWL",
+  "SMOG",
+  "ROAR",
+  "BITE",
+  "ODOR_SLEUTH",
+  "FAINT_ATTACK",
+  "FLAMETHROWER",
+  "CRUNCH",
+  )),
+
+
+  ("KINGDRA",(
+  "BUBBLE",
+  "SMOKESCREEN",
+  "LEER",
+  "WATER_GUN",
+  "SMOKESCREEN",
+  "LEER",
+  "WATER_GUN",
+  "TWISTER",
+  "AGILITY",
+  "HYDRO_PUMP",
+  "DRAGON_DANCE",
+  )),
+
+
+  ("PHANPY",(
+  "ODOR_SLEUTH",
+  "TACKLE",
+  "GROWL",
+  "DEFENSE_CURL",
+  "FLAIL",
+  "TAKE_DOWN",
+  "ROLLOUT",
+  "ENDURE",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("DONPHAN",(
+  "ODOR_SLEUTH",
+  "HORN_ATTACK",
+  "GROWL",
+  "DEFENSE_CURL",
+  "FLAIL",
+  "FURY_ATTACK",
+  "ROLLOUT",
+  "RAPID_SPIN",
+  "EARTHQUAKE",
+  )),
+
+
+  ("PORYGON",(
+  "CONVERSION_",
+  "TACKLE",
+  "CONVERSION",
+  "AGILITY",
+  "PSYBEAM",
+  "RECOVER",
+  "DEFENSE_CURL",
+  "LOCK_ON",
+  "TRI_ATTACK",
+  "RECYCLE",
+  "ZAP_CANNON",
+  )),
+
+
+  ("STANTLER",(
+  "TACKLE",
+  "LEER",
+  "ASTONISH",
+  "HYPNOSIS",
+  "STOMP",
+  "SAND_ATTACK",
+  "TAKE_DOWN",
+  "CONFUSE_RAY",
+  "CALM_MIND",
+  )),
+
+
+  ("SMEARGLE",(
+  "SKETCH",
+  "SKETCH",
+  "SKETCH",
+  "SKETCH",
+  "SKETCH",
+  "SKETCH",
+  "SKETCH",
+  "SKETCH",
+  "SKETCH",
+  "SKETCH",
+  )),
+
+
+  ("TYROGUE",(
+  "BODYSLAM",
+  "ROCK_SLIDE",
+  "EARTHQUAKE",
+  "DOUBLE_TEAM",
+  )),
+
+
+  ("HITMONTOP",(
+  "REVENGE",
+  "ROLLING_KICK",
+  "FOCUS_ENERGY",
+  "PURSUIT",
+  "QUICK_ATTACK",
+  "TRIPLE_KICK",
+  "RAPID_SPIN",
+  "COUNTER",
+  "AGILITY",
+  "DETECT",
+  "ENDEAVOR",
+  )),
+
+
+  ("SMOOCHUM",(
+  "POUND",
+  "LICK",
+  "SWEET_KISS",
+  "POWDER_SNOW",
+  "CONFUSION",
+  "SING",
+  "MEAN_LOOK",
+  "FAKE_TEARS",
+  "PSYCHIC",
+  "PERISH_SONG",
+  "BLIZZARD",
+  )),
+
+
+  ("ELEKID",(
+  "QUICK_ATTACK",
+  "LEER",
+  "THUNDER_PUNCH",
+  "LIGHT_SCREEN",
+  "SWIFT",
+  "SCREECH",
+  "THUNDERBOLT",
+  "THUNDER",
+  )),
+
+
+  ("MAGBY",(
+  "EMBER",
+  "LEER",
+  "SMOG",
+  "FIRE_PUNCH",
+  "SMOKESCREEN",
+  "SUNNY_DAY",
+  "FLAMETHROWER",
+  "CONFUSE_RAY",
+  "FIRE_BLAST",
+  )),
+
+
+  ("MILTANK",(
+  "TACKLE",
+  "GROWL",
+  "DEFENSE_CURL",
+  "STOMP",
+  "MILK_DRINK",
+  "BIDE",
+  "ROLLOUT",
+  "BODY_SLAM",
+  "HEAL_BELL",
+  )),
+
+
+  ("BLISSEY",(
+  "POUND",
+  "GROWL",
+  "TAIL_WHIP",
+  "REFRESH",
+  "SOFT_BOILED",
+  "DOUBLE_SLAP",
+  "MINIMIZE",
+  "SING",
+  "EGG_BOMB",
+  "DEFENSE_CURL",
+  "LIGHT_SCREEN",
+  "DOUBLE_EDGE",
+  )),
+
+
+
+
+
+  ("LARVITAR",(
+  "BITE",
+  "LEER",
+  "SANDSTORM",
+  "SCREECH",
+  "ROCK_SLIDE",
+  "THRASH",
+  "SCARY_FACE",
+  "CRUNCH",
+  "EARTHQUAKE",
+  "HYPER_BEAM",
+  )),
+
+
+  ("PUPITAR",(
+  "BITE",
+  "LEER",
+  "SANDSTORM",
+  "SCREECH",
+  "SANDSTORM",
+  "SCREECH",
+  "ROCK_SLIDE",
+  "THRASH",
+  "SCARY_FACE",
+  "CRUNCH",
+  "EARTHQUAKE",
+  "HYPER_BEAM",
+  )),
+
+
+  ("TYRANITAR",(
+  "BITE",
+  "LEER",
+  "SANDSTORM",
+  "SCREECH",
+  "SANDSTORM",
+  "SCREECH",
+  "ROCK_SLIDE",
+  "THRASH",
+  "SCARY_FACE",
+  "CRUNCH",
+  "EARTHQUAKE",
+  "HYPER_BEAM",
+  )),
+
+
+
+
+
+
+  ("TREECKO",(
+  "POUND",
+  "LEER",
+  "ABSORB",
+  "QUICK_ATTACK",
+  "PURSUIT",
+  "SCREECH",
+  "MEGA_DRAIN",
+  "AGILITY",
+  "SLAM",
+  "DETECT",
+  "GIGA_DRAIN",
+  )),
+
+
+  ("GROVYLE",(
+  "POUND",
+  "LEER",
+  "ABSORB",
+  "QUICK_ATTACK",
+  "ABSORB",
+  "QUICK_ATTACK",
+  "FURY_CUTTER",
+  "PURSUIT",
+  "SCREECH",
+  "LEAF_BLADE",
+  "AGILITY",
+  "SLAM",
+  "DETECT",
+  "FALSE_SWIPE",
+  )),
+
+
+  ("SCEPTILE",(
+  "POUND",
+  "LEER",
+  "ABSORB",
+  "QUICK_ATTACK",
+  "ABSORB",
+  "QUICK_ATTACK",
+  "FURY_CUTTER",
+  "PURSUIT",
+  "SCREECH",
+  "LEAF_BLADE",
+  "AGILITY",
+  "SLAM",
+  "DETECT",
+  "FALSE_SWIPE",
+  )),
+
+
+  ("TORCHIC",(
+  "SCRATCH",
+  "GROWL",
+  "FOCUS_ENERGY",
+  "EMBER",
+  "PECK",
+  "SAND_ATTACK",
+  "FIRE_SPIN",
+  "QUICK_ATTACK",
+  "SLASH",
+  "MIRROR_MOVE",
+  "FLAMETHROWER",
+  )),
+
+
+  ("COMBUSKEN",(
+  "SCRATCH",
+  "GROWL",
+  "FOCUS_ENERGY",
+  "EMBER",
+  "FOCUS_ENERGY",
+  "EMBER",
+  "DOUBLE_KICK",
+  "PECK",
+  "SAND_ATTACK",
+  "BULK_UP",
+  "QUICK_ATTACK",
+  "SLASH",
+  "MIRROR_MOVE",
+  "SKY_UPPERCUT",
+  )),
+
+
+  ("BLAZIKEN",(
+  "FIRE_PUNCH",
+  "SCRATCH",
+  "GROWL",
+  "FOCUS_ENERGY",
+  "EMBER",
+  "FOCUS_ENERGY",
+  "EMBER",
+  "DOUBLE_KICK",
+  "PECK",
+  "SAND_ATTACK",
+  "BULK_UP",
+  "QUICK_ATTACK",
+  "BLAZE_KICK",
+  "SLASH",
+  "MIRROR_MOVE",
+  "SKY_UPPERCUT",
+  )),
+
+
+  ("MUDKIP",(
+  "TACKLE",
+  "GROWL",
+  "MUD_SLAP",
+  "WATER_GUN",
+  "BIDE",
+  "FORESIGHT",
+  "MUD_SPORT",
+  "TAKE_DOWN",
+  "WHIRLPOOL",
+  "PROTECT",
+  "HYDRO_PUMP",
+  "ENDEAVOR",
+  )),
+
+
+  ("MARSHTOMP",(
+  "TACKLE",
+  "GROWL",
+  "MUD_SLAP",
+  "WATER_GUN",
+  "MUD_SLAP",
+  "WATER_GUN",
+  "BIDE",
+  "MUD_SHOT",
+  "FORESIGHT",
+  "MUD_SPORT",
+  "TAKE_DOWN",
+  "MUDDY_WATER",
+  "PROTECT",
+  "EARTHQUAKE",
+  "ENDEAVOR",
+  )),
+
+
+  ("SWAMPERT",(
+  "TACKLE",
+  "GROWL",
+  "MUD_SLAP",
+  "WATER_GUN",
+  "MUD_SLAP",
+  "WATER_GUN",
+  "BIDE",
+  "MUD_SHOT",
+  "FORESIGHT",
+  "MUD_SPORT",
+  "TAKE_DOWN",
+  "MUDDY_WATER",
+  "PROTECT",
+  "EARTHQUAKE",
+  "ENDEAVOR",
+  )),
+
+
+  ("POOCHYENA",(
+  "TACKLE",
+  "HOWL",
+  "SAND_ATTACK",
+  "BITE",
+  "ODOR_SLEUTH",
+  "ROAR",
+  "SWAGGER",
+  "SCARY_FACE",
+  "TAKE_DOWN",
+  "TAUNT",
+  "CRUNCH",
+  "THIEF",
+  )),
+
+
+  ("MIGHTYENA",(
+  "TACKLE",
+  "HOWL",
+  "SAND_ATTACK",
+  "BITE",
+  "HOWL",
+  "SAND_ATTACK",
+  "BITE",
+  "ODOR_SLEUTH",
+  "ROAR",
+  "SWAGGER",
+  "SCARY_FACE",
+  "TAKE_DOWN",
+  "TAUNT",
+  "CRUNCH",
+  "THIEF",
+  )),
+
+
+  ("ZIGZAGOON",(
+  "TACKLE",
+  "GROWL",
+  "TAIL_WHIP",
+  "HEADBUTT",
+  "SAND_ATTACK",
+  "ODOR_SLEUTH",
+  "MUD_SPORT",
+  "PIN_MISSILE",
+  "COVET",
+  "FLAIL",
+  "REST",
+  "BELLY_DRUM",
+  )),
+
+
+  ("LINOONE",(
+  "TACKLE",
+  "GROWL",
+  "TAIL_WHIP",
+  "HEADBUTT",
+  "TAIL_WHIP",
+  "HEADBUTT",
+  "SAND_ATTACK",
+  "ODOR_SLEUTH",
+  "MUD_SPORT",
+  "FURY_SWIPES",
+  "COVET",
+  "SLASH",
+  "REST",
+  "BELLY_DRUM",
+  )),
+
+
+  ("WURMPLE",(
+  "IRON_DEFENSE",
+  "POISON_STING",
+  "STRING_SHOT",
+  "HEADBUTT",
+  )),
+
+
+  ("SILCOON",(
+  "IRON_DEFENSE",
+  "POISON_STING",
+  "STRING_SHOT",
+  "HEADBUTT",
+  )),
+
+
+  ("BEAUTIFLY",(
+  "ABSORB",
+  "GUST",
+  "STUN_SPORE",
+  "MORNING_SUN",
+  "MEGA_DRAIN",
+  "WHIRLWIND",
+  "ATTRACT",
+  "SILVER_WIND",
+  "GIGA_DRAIN",
+  )),
+
+
+  ("CASCOON",(
+  "IRON_DEFENSE",
+  "POISON_STING",
+  "STRING_SHOT",
+  "HEADBUTT",
+  )),
+
+
+  ("DUSTOX",(
+  "CONFUSION",
+
+  "PROTECT",
+  "MOONLIGHT",
+
+  "WHIRLWIND",
+  "LIGHT_SCREEN",
+  "SILVER_WIND",
+  "TOXIC",
+  "PSYBEAM",
+  "GUST",
+  )),
+
+
+  ("LOTAD",(
+  "ASTONISH",
+  "GROWL",
+  "ABSORB",
+  "NATURE_POWER",
+  "MIST",
+  "RAIN_DANCE",
+  "MEGA_DRAIN",
+  )),
+
+
+  ("LOMBRE",(
+  "ASTONISH",
+  "GROWL",
+  "ABSORB",
+  "NATURE_POWER",
+  "FAKE_OUT",
+  "FURY_SWIPES",
+  "WATER_SPORT",
+  "THIEF",
+  "UPROAR",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("LUDICOLO",(
+  "ASTONISH",
+  "GROWL",
+  "ABSORB",
+  "NATURE_POWER",
+  )),
+
+
+  ("SEEDOT",(
+  "BIDE",
+  "HARDEN",
+  "GROWTH",
+  "NATURE_POWER",
+  "SYNTHESIS",
+  "SUNNY_DAY",
+  "EXPLOSION",
+  )),
+
+
+  ("NUZLEAF",(
+  "POUND",
+  "HARDEN",
+  "GROWTH",
+  "NATURE_POWER",
+  "FAKE_OUT",
+  "TORMENT",
+  "FAINT_ATTACK",
+  "RAZOR_WIND",
+  "SWAGGER",
+  "EXTRASENSORY",
+  )),
+
+
+  ("SHIFTRY",(
+  "POUND",
+  "HARDEN",
+  "GROWTH",
+  "NATURE_POWER",
+  )),
+
+
+  ("NINCADA",(
+  "SCRATCH",
+  "HARDEN",
+  "LEECH_LIFE",
+  "SAND_ATTACK",
+  "FURY_SWIPES",
+  "MIND_READER",
+  "FALSE_SWIPE",
+  "MUD_SLAP",
+  "METAL_CLAW",
+  "DIG",
+  )),
+
+
+  ("NINJASK",(
+  "SCRATCH",
+  "HARDEN",
+  "LEECH_LIFE",
+  "SAND_ATTACK",
+  "LEECH_LIFE",
+  "SAND_ATTACK",
+  "FURY_SWIPES",
+  "MIND_READER",
+  "DOUBLE_TEAM",
+  "FURY_CUTTER",
+  "SCREECH",
+  "SWORDS_DANCE",
+  "SLASH",
+  "AGILITY",
+  "BATON_PASS",
+  )),
+
+
+  ("SHEDINJA",(
+  "SCRATCH",
+  "HARDEN",
+  "LEECH_LIFE",
+  "SAND_ATTACK",
+  "FURY_SWIPES",
+  "MIND_READER",
+  "SPITE",
+  "CONFUSE_RAY",
+  "SHADOW_BALL",
+  "GRUDGE",
+  )),
+
+
+  ("TAILLOW",(
+  "PECK",
+  "GROWL",
+  "FOCUS_ENERGY",
+  "QUICK_ATTACK",
+  "WING_ATTACK",
+  "DOUBLE_TEAM",
+  "ENDEAVOR",
+  "AERIAL_ACE",
+  "AGILITY",
+  )),
+
+
+  ("SWELLOW",(
+  "PECK",
+  "GROWL",
+  "FOCUS_ENERGY",
+  "QUICK_ATTACK",
+  "FOCUS_ENERGY",
+  "QUICK_ATTACK",
+  "WING_ATTACK",
+  "DOUBLE_TEAM",
+  "ENDEAVOR",
+  "AERIAL_ACE",
+  "AGILITY",
+  )),
+
+
+  ("SHROOMISH",(
+  "ABSORB",
+  "TACKLE",
+  "STUN_SPORE",
+  "LEECH_SEED",
+  "MEGA_DRAIN",
+  "HEADBUTT",
+  "POISON_POWDER",
+  "GROWTH",
+  "GIGA_DRAIN",
+  "SPORE",
+  )),
+
+
+  ("BRELOOM",(
+  "ABSORB",
+  "TACKLE",
+  "STUN_SPORE",
+  "LEECH_SEED",
+  "TACKLE",
+  "STUN_SPORE",
+  "LEECH_SEED",
+  "MEGA_DRAIN",
+  "HEADBUTT",
+  "MACH_PUNCH",
+  "COUNTER",
+  "SKY_UPPERCUT",
+  "MIND_READER",
+  "DYNAMIC_PUNCH",
+  )),
+
+
+  ("SPINDA",(
+  "TACKLE",
+  "UPROAR",
+  "FAINT_ATTACK",
+  "PSYBEAM",
+  "HYPNOSIS",
+  "DIZZY_PUNCH",
+  "TEETER_DANCE",
+  "PSYCH_UP",
+  "DOUBLE_EDGE",
+  "FLAIL",
+  "THRASH",
+  )),
+
+
+  ("WINGULL",(
+  "GROWL",
+  "WATER_GUN",
+  "SUPERSONIC",
+  "WING_ATTACK",
+  "MIST",
+  "QUICK_ATTACK",
+  "PURSUIT",
+  "AGILITY",
+  )),
+
+
+  ("PELIPPER",(
+  "GROWL",
+  "WATER_GUN",
+  "WATER_SPORT",
+  "WING_ATTACK",
+  "WATER_GUN",
+  "SUPERSONIC",
+  "WING_ATTACK",
+  "MIST",
+  "PROTECT",
+  "STOCKPILE",
+  "SWALLOW",
+  "SPIT_UP",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("SURSKIT",(
+  "BUBBLE",
+  "QUICK_ATTACK",
+  "SWEET_SCENT",
+  "WATER_SPORT",
+  "BUBBLE_BEAM",
+  "AGILITY",
+  "MIST",
+  "HAZE",
+  )),
+
+
+  ("MASQUERAIN",(
+  "BUBBLE",
+  "QUICK_ATTACK",
+  "SWEET_SCENT",
+  "WATER_SPORT",
+  "QUICK_ATTACK",
+  "SWEET_SCENT",
+  "WATER_SPORT",
+  "GUST",
+  "SCARY_FACE",
+  "STUN_SPORE",
+  "SILVER_WIND",
+  "WHIRLWIND",
+  )),
+
+
+  ("WAILMER",(
+  "SPLASH",
+  "GROWL",
+  "WATER_GUN",
+  "ROLLOUT",
+  "WHIRLPOOL",
+  "ASTONISH",
+  "WATER_PULSE",
+  "MIST",
+  "REST",
+  "WATER_SPOUT",
+  "AMNESIA",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("WAILORD",(
+  "SPLASH",
+  "GROWL",
+  "WATER_GUN",
+  "ROLLOUT",
+  "GROWL",
+  "WATER_GUN",
+  "ROLLOUT",
+  "WHIRLPOOL",
+  "ASTONISH",
+  "WATER_PULSE",
+  "MIST",
+  "REST",
+  "WATER_SPOUT",
+  "AMNESIA",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("SKITTY",(
+  "GROWL",
+  "TACKLE",
+  "TAIL_WHIP",
+  "ATTRACT",
+  "SING",
+  "DOUBLE_SLAP",
+  "ASSIST",
+  "CHARM",
+  "FAINT_ATTACK",
+  "COVET",
+  "HEAL_BELL",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("DELCATTY",(
+  "GROWL",
+  "ATTRACT",
+  "SING",
+  "DOUBLE_SLAP",
+  )),
+
+
+  ("KECLEON",(
+  "THIEF",
+  "TAIL_WHIP",
+  "ASTONISH",
+  "LICK",
+  "SCRATCH",
+  "BIND",
+  "FAINT_ATTACK",
+  "FURY_SWIPES",
+  "PSYBEAM",
+  "SCREECH",
+  "SLASH",
+  "SUBSTITUTE",
+  "ANCIENT_POWER",
+  )),
+
+
+  ("BALTOY",(
+  "CONFUSION",
+  "HARDEN",
+  "RAPID_SPIN",
+  "MUD_SLAP",
+  "PSYBEAM",
+  "ROCK_TOMB",
+  "SELF_DESTRUCT",
+  "ANCIENT_POWER",
+  "SANDSTORM",
+  "COSMIC_POWER",
+  "EXPLOSION",
+  )),
+
+
+  ("CLAYDOL",(
+  "TELEPORT",
+  "CONFUSION",
+  "HARDEN",
+  "RAPID_SPIN",
+  "HARDEN",
+  "RAPID_SPIN",
+  "MUD_SLAP",
+  "PSYBEAM",
+  "ROCK_TOMB",
+  "SELF_DESTRUCT",
+  "ANCIENT_POWER",
+  "SANDSTORM",
+  "HYPER_BEAM",
+  "COSMIC_POWER",
+  "EXPLOSION",
+  )),
+
+
+  ("NOSEPASS",(
+  "TACKLE",
+  "HARDEN",
+  "ROCK_THROW",
+  "BLOCK",
+  "THUNDER_WAVE",
+  "ROCK_SLIDE",
+  "SANDSTORM",
+  "REST",
+  "ZAP_CANNON",
+  "LOCK_ON",
+  )),
+
+
+  ("TORKOAL",(
+  "EMBER",
+  "SMOG",
+  "CURSE",
+  "SMOKESCREEN",
+  "FIRE_SPIN",
+  "BODY_SLAM",
+  "PROTECT",
+  "FLAMETHROWER",
+  "IRON_DEFENSE",
+  "AMNESIA",
+  "FLAIL",
+  "HEAT_WAVE",
+  )),
+
+
+  ("SABLEYE",(
+  "LEER",
+  "SCRATCH",
+  "FORESIGHT",
+  "NIGHT_SHADE",
+  "ASTONISH",
+  "FURY_SWIPES",
+  "FAKE_OUT",
+  "DETECT",
+  "FAINT_ATTACK",
+  "KNOCK_OFF",
+  "CONFUSE_RAY",
+  "SHADOW_BALL",
+  "MEAN_LOOK",
+  )),
+
+
+  ("BARBOACH",(
+  "MUD_SLAP",
+  "MUD_SPORT",
+  "WATER_SPORT",
+  "WATER_GUN",
+  "MAGNITUDE",
+  "AMNESIA",
+  "REST",
+  "SNORE",
+  "EARTHQUAKE",
+  "FUTURE_SIGHT",
+  "FISSURE",
+  )),
+
+
+  ("WHISCASH",(
+  "TICKLE",
+  "MUD_SLAP",
+  "MUD_SPORT",
+  "WATER_SPORT",
+  "MUD_SPORT",
+  "WATER_SPORT",
+  "WATER_GUN",
+  "MAGNITUDE",
+  "AMNESIA",
+  "REST",
+  "SNORE",
+  "EARTHQUAKE",
+  "FUTURE_SIGHT",
+  "FISSURE",
+  )),
+
+
+  ("LUVDISC",(
+  "TACKLE",
+  "CHARM",
+  "WATER_GUN",
+  "AGILITY",
+  "TAKE_DOWN",
+  "ATTRACT",
+  "SWEET_KISS",
+  "FLAIL",
+  "SAFEGUARD",
+  )),
+
+
+  ("CORPHISH",(
+  "BUBBLE",
+  "HARDEN",
+  "VICE_GRIP",
+  "LEER",
+  "BUBBLE_BEAM",
+  "PROTECT",
+  "KNOCK_OFF",
+  "TAUNT",
+  "CRABHAMMER",
+  "SWORDS_DANCE",
+  "GUILLOTINE",
+  )),
+
+
+  ("CRAWDAUNT",(
+  "BUBBLE",
+  "HARDEN",
+  "VICE_GRIP",
+  "LEER",
+  "HARDEN",
+  "VICE_GRIP",
+  "LEER",
+  "BUBBLE_BEAM",
+  "PROTECT",
+  "KNOCK_OFF",
+  "TAUNT",
+  "CRABHAMMER",
+  "SWORDS_DANCE",
+  "GUILLOTINE",
+  )),
+
+
+  ("FEEBAS",(
+  "SPLASH",
+  "TACKLE",
+  "DRAGON_BREATH",
+  "SURF",
+  )),
+
+
+  ("MILOTIC",(
+  "WATER_GUN",
+  "WRAP",
+  "WATER_SPORT",
+  "REFRESH",
+  "WATER_PULSE",
+  "TWISTER",
+  "RECOVER",
+  "RAIN_DANCE",
+  "HYDRO_PUMP",
+  "ATTRACT",
+  "SAFEGUARD",
+  )),
+
+
+  ("CARVANHA",(
+  "LEER",
+  "BITE",
+  "RAGE",
+  "FOCUS_ENERGY",
+  "SCARY_FACE",
+  "CRUNCH",
+  "SCREECH",
+  "TAKE_DOWN",
+  "SWAGGER",
+  "AGILITY",
+  )),
+
+
+  ("SHARPEDO",(
+  "LEER",
+  "BITE",
+  "RAGE",
+  "FOCUS_ENERGY",
+  "RAGE",
+  "FOCUS_ENERGY",
+  "SCARY_FACE",
+
+  "SCREECH",
+
+  "TAUNT",
+  "SWAGGER",
+  "SKULL_BASH",
+  "AGILITY",
+  "SLASH",
+  "CRUNCH",
+  )),
+
+
+  ("TRAPINCH",(
+  "BITE",
+  "SAND_ATTACK",
+  "FAINT_ATTACK",
+  "SAND_TOMB",
+  "CRUNCH",
+  "DIG",
+  "SANDSTORM",
+  "HYPER_BEAM",
+  )),
+
+
+  ("VIBRAVA",(
+  "BITE",
+  "SAND_ATTACK",
+  "FAINT_ATTACK",
+  "SAND_TOMB",
+  "SAND_ATTACK",
+  "FAINT_ATTACK",
+  "SAND_TOMB",
+  "CRUNCH",
+  "DRAGON_BREATH",
+  "SCREECH",
+  "SANDSTORM",
+  "HYPER_BEAM",
+  )),
+
+
+  ("FLYGON",(
+  "BITE",
+  "SAND_ATTACK",
+  "FAINT_ATTACK",
+  "SAND_TOMB",
+  "SAND_ATTACK",
+  "FAINT_ATTACK",
+  "SAND_TOMB",
+  "CRUNCH",
+  "DRAGON_BREATH",
+  "SCREECH",
+  "SANDSTORM",
+  "HYPER_BEAM",
+  )),
+
+
+  ("MAKUHITA",(
+  "TACKLE",
+  "FOCUS_ENERGY",
+  "SAND_ATTACK",
+  "ARM_THRUST",
+  "VITAL_THROW",
+  "FAKE_OUT",
+  "WHIRLWIND",
+  "KNOCK_OFF",
+  "SMELLING_SALT",
+  "BELLY_DRUM",
+  "ENDURE",
+  "SEISMIC_TOSS",
+  "REVERSAL",
+  )),
+
+
+  ("HARIYAMA",(
+  "TACKLE",
+  "FOCUS_ENERGY",
+  "SAND_ATTACK",
+  "ARM_THRUST",
+  "SAND_ATTACK",
+  "ARM_THRUST",
+  "VITAL_THROW",
+  "FAKE_OUT",
+  "WHIRLWIND",
+  "KNOCK_OFF",
+  "SMELLING_SALT",
+  "BELLY_DRUM",
+  "ENDURE",
+  "SEISMIC_TOSS",
+  "REVERSAL",
+  )),
+
+
+  ("ELECTRIKE",(
+  "TACKLE",
+  "THUNDER_WAVE",
+  "LEER",
+  "HOWL",
+  "QUICK_ATTACK",
+  "SPARK",
+  "ODOR_SLEUTH",
+  "ROAR",
+  "BITE",
+  "THUNDER",
+  "CHARGE",
+  )),
+
+
+  ("MANECTRIC",(
+  "TACKLE",
+  "THUNDER_WAVE",
+  "LEER",
+  "HOWL",
+  "THUNDER_WAVE",
+  "LEER",
+  "HOWL",
+  "QUICK_ATTACK",
+  "SPARK",
+  "ODOR_SLEUTH",
+  "ROAR",
+  "BITE",
+  "THUNDER",
+  "CHARGE",
+  )),
+
+
+  ("NUMEL",(
+  "GROWL",
+  "TACKLE",
+  "EMBER",
+  "MAGNITUDE",
+  "FOCUS_ENERGY",
+  "TAKE_DOWN",
+  "AMNESIA",
+  "EARTHQUAKE",
+  "FLAMETHROWER",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("CAMERUPT",(
+  "GROWL",
+  "TACKLE",
+  "EMBER",
+  "MAGNITUDE",
+  "EMBER",
+  "MAGNITUDE",
+  "FOCUS_ENERGY",
+  "TAKE_DOWN",
+  "AMNESIA",
+  "ROCK_SLIDE",
+  "EARTHQUAKE",
+  "ERUPTION",
+  "FISSURE",
+  )),
+
+
+  ("SPHEAL",(
+  "POWDER_SNOW",
+  "GROWL",
+  "WATER_GUN",
+  "ENCORE",
+  "ICE_BALL",
+  "BODY_SLAM",
+  "AURORA_BEAM",
+  "HAIL",
+  "REST",
+  "SNORE",
+  "BLIZZARD",
+  "SHEER_COLD",
+  )),
+
+
+  ("SEALEO",(
+  "POWDER_SNOW",
+  "GROWL",
+  "WATER_GUN",
+  "ENCORE",
+  "ENCORE",
+  "ICE_BALL",
+  "BODY_SLAM",
+  "AURORA_BEAM",
+  "HAIL",
+  "REST",
+  "SNORE",
+  "BLIZZARD",
+  "SHEER_COLD",
+  )),
+
+
+  ("WALREIN",(
+  "POWDER_SNOW",
+  "GROWL",
+  "WATER_GUN",
+  "ENCORE",
+  "ENCORE",
+  "ICE_BALL",
+  "BODY_SLAM",
+  "AURORA_BEAM",
+  "HAIL",
+  "REST",
+  "SNORE",
+  "BLIZZARD",
+  "SHEER_COLD",
+  )),
+
+
+  ("CACNEA",(
+  "POISON_STING",
+  "LEER",
+  "ABSORB",
+  "GROWTH",
+  "LEECH_SEED",
+  "SAND_ATTACK",
+  "PIN_MISSILE",
+  "INGRAIN",
+  "FAINT_ATTACK",
+  "SPIKES",
+  "NEEDLE_ARM",
+  "COTTON_SPORE",
+  "SANDSTORM",
+  )),
+
+
+  ("CACTURNE",(
+  "POISON_STING",
+  "LEER",
+  "ABSORB",
+  "GROWTH",
+  "ABSORB",
+  "GROWTH",
+  "LEECH_SEED",
+  "SAND_ATTACK",
+  "PIN_MISSILE",
+  "INGRAIN",
+  "FAINT_ATTACK",
+  "SPIKES",
+  "NEEDLE_ARM",
+  "COTTON_SPORE",
+  "SANDSTORM",
+  )),
+
+
+  ("SNORUNT",(
+  "POWDER_SNOW",
+  "LEER",
+  "DOUBLE_TEAM",
+  "BITE",
+  "ICY_WIND",
+  "HEADBUTT",
+  "PROTECT",
+  "CRUNCH",
+  "ICE_BEAM",
+  "HAIL",
+  "BLIZZARD",
+  )),
+
+
+  ("GLALIE",(
+  "POWDER_SNOW",
+  "LEER",
+  "DOUBLE_TEAM",
+  "BITE",
+  "DOUBLE_TEAM",
+  "BITE",
+  "ICY_WIND",
+  "HEADBUTT",
+  "PROTECT",
+  "CRUNCH",
+  "ICE_BEAM",
+  "HAIL",
+  "BLIZZARD",
+  "SHEER_COLD",
+  )),
+
+
+  ("LUNATONE",(
+  "TACKLE",
+  "HARDEN",
+  "CONFUSION",
+  "ROCK_THROW",
+  "HYPNOSIS",
+  "PSYWAVE",
+  "COSMIC_POWER",
+  "PSYCHIC",
+  "FUTURE_SIGHT",
+  "EXPLOSION",
+  )),
+
+
+  ("SOLROCK",(
+  "TACKLE",
+  "HARDEN",
+  "CONFUSION",
+  "ROCK_THROW",
+  "FIRE_SPIN",
+  "PSYWAVE",
+  "COSMIC_POWER",
+  "ROCK_SLIDE",
+  "SOLAR_BEAM",
+  "EXPLOSION",
+  )),
+
+
+  ("AZURILL",(
+  "SPLASH",
+  "CHARM",
+  "TAIL_WHIP",
+  "BUBBLE",
+  "SLAM",
+  "WATER_GUN",
+  )),
+
+
+  ("SPOINK",(
+  "SPLASH",
+  "PSYWAVE",
+  "ODOR_SLEUTH",
+  "PSYBEAM",
+  "PSYCH_UP",
+  "CONFUSE_RAY",
+  "MAGIC_COAT",
+  "PSYCHIC",
+  "REST",
+  "SNORE",
+  "BOUNCE",
+  )),
+
+
+  ("GRUMPIG",(
+  "SPLASH",
+  "PSYWAVE",
+  "ODOR_SLEUTH",
+  "PSYBEAM",
+  "PSYWAVE",
+  "ODOR_SLEUTH",
+  "PSYBEAM",
+  "PSYCH_UP",
+  "CONFUSE_RAY",
+  "MAGIC_COAT",
+  "PSYCHIC",
+  "REST",
+  "SNORE",
+  "BOUNCE",
+  )),
+
+
+  ("PLUSLE",(
+  "GROWL",
+  "THUNDER_WAVE",
+  "QUICK_ATTACK",
+  "HELPING_HAND",
+  "SPARK",
+  "ENCORE",
+  "FAKE_TEARS",
+  "CHARGE",
+  "THUNDER",
+  "BATON_PASS",
+  "AGILITY",
+  )),
+
+
+  ("MINUN",(
+  "GROWL",
+  "THUNDER_WAVE",
+  "QUICK_ATTACK",
+  "HELPING_HAND",
+  "SPARK",
+  "ENCORE",
+  "CHARM",
+  "CHARGE",
+  "THUNDER",
+  "BATON_PASS",
+  "AGILITY",
+  )),
+
+
+  ("MAWILE",(
+  "ASTONISH",
+  "FAKE_TEARS",
+  "BITE",
+  "SWEET_SCENT",
+  "VICE_GRIP",
+  "FAINT_ATTACK",
+  "BATON_PASS",
+  "CRUNCH",
+  "IRON_DEFENSE",
+  "STOCKPILE",
+  "SWALLOW",
+  "SPIT_UP",
+  )),
+
+
+  ("MEDITITE",(
+  "BIDE",
+  "MEDITATE",
+  "CONFUSION",
+  "DETECT",
+  "HIDDEN_POWER",
+  "MIND_READER",
+  "CALM_MIND",
+  "HI_JUMP_KICK",
+  "PSYCH_UP",
+  "REVERSAL",
+  "RECOVER",
+  )),
+
+
+  ("MEDICHAM",(
+  "FIRE_PUNCH",
+  "THUNDER_PUNCH",
+  "ICE_PUNCH",
+  "BIDE",
+  "MEDITATE",
+  "CONFUSION",
+  "DETECT",
+  "MEDITATE",
+  "CONFUSION",
+  "DETECT",
+  "HIDDEN_POWER",
+  "MIND_READER",
+  "CALM_MIND",
+  "HI_JUMP_KICK",
+  "PSYCH_UP",
+  "REVERSAL",
+  "RECOVER",
+  )),
+
+
+  ("SWABLU",(
+  "PECK",
+  "GROWL",
+  "ASTONISH",
+  "SING",
+  "FURY_ATTACK",
+  "SAFEGUARD",
+  "MIST",
+  "TAKE_DOWN",
+  "MIRROR_MOVE",
+  "REFRESH",
+  "PERISH_SONG",
+  )),
+
+
+  ("ALTARIA",(
+  "PECK",
+  "GROWL",
+  "ASTONISH",
+  "SING",
+  "ASTONISH",
+  "SING",
+  "FURY_ATTACK",
+  "SAFEGUARD",
+  "MIST",
+  "TAKE_DOWN",
+  "DRAGON_BREATH",
+  "DRAGON_DANCE",
+  "REFRESH",
+  "PERISH_SONG",
+  "SKY_ATTACK",
+  )),
+
+
+  ("WYNAUT",(
+  "SPLASH",
+  "CHARM",
+  "ENCORE",
+  "COUNTER",
+  "MIRROR_COAT",
+  "SAFEGUARD",
+  "DESTINY_BOND",
+  )),
+
+
+  ("DUSKULL",(
+  "LEER",
+  "NIGHT_SHADE",
+  "DISABLE",
+  "FORESIGHT",
+  "ASTONISH",
+  "CONFUSE_RAY",
+  "PURSUIT",
+  "CURSE",
+  "WILL_O_WISP",
+  "MEAN_LOOK",
+  "FUTURE_SIGHT",
+  )),
+
+
+  ("DUSCLOPS",(
+  "BIND",
+  "LEER",
+  "NIGHT_SHADE",
+  "DISABLE",
+  "DISABLE",
+  "FORESIGHT",
+  "ASTONISH",
+  "CONFUSE_RAY",
+  "PURSUIT",
+  "CURSE",
+  "SHADOW_PUNCH",
+  "WILL_O_WISP",
+  "MEAN_LOOK",
+  "FUTURE_SIGHT",
+  )),
+
+
+  ("ROSELIA",(
+  "ABSORB",
+  "GROWTH",
+  "POISON_STING",
+  "STUN_SPORE",
+  "MEGA_DRAIN",
+  "LEECH_SEED",
+  "MAGICAL_LEAF",
+  "GRASS_WHISTLE",
+  "GIGA_DRAIN",
+  "SWEET_SCENT",
+  "INGRAIN",
+  "TOXIC",
+  "PETAL_DANCE",
+  "AROMATHERAPY",
+  "SYNTHESIS",
+  )),
+
+
+  ("SLAKOTH",(
+  "SCRATCH",
+  "YAWN",
+  "ENCORE",
+  "SLACK_OFF",
+  "FAINT_ATTACK",
+  "AMNESIA",
+  "COVET",
+  "COUNTER",
+  "FLAIL",
+  )),
+
+
+  ("VIGOROTH",(
+  "SCRATCH",
+  "FOCUS_ENERGY",
+  "ENCORE",
+  "UPROAR",
+  "ENCORE",
+  "UPROAR",
+  "FURY_SWIPES",
+  "ENDURE",
+  "SLASH",
+  "COUNTER",
+  "FOCUS_PUNCH",
+  "REVERSAL",
+  )),
+
+
+  ("SLAKING",(
+  "SCRATCH",
+  "YAWN",
+  "ENCORE",
+  "SLACK_OFF",
+  "ENCORE",
+  "SLACK_OFF",
+  "FAINT_ATTACK",
+  "AMNESIA",
+  "COVET",
+  "SWAGGER",
+  "COUNTER",
+  "FLAIL",
+  )),
+
+
+  ("GULPIN",(
+  "POUND",
+  "YAWN",
+  "POISON_GAS",
+  "SLUDGE",
+  "AMNESIA",
+  "ENCORE",
+  "TOXIC",
+  "STOCKPILE",
+  "SPIT_UP",
+  "SWALLOW",
+  "SLUDGE_BOMB",
+  )),
+
+
+  ("SWALOT",(
+  "POUND",
+  "YAWN",
+  "POISON_GAS",
+  "SLUDGE",
+  "YAWN",
+  "POISON_GAS",
+  "SLUDGE",
+  "AMNESIA",
+  "ENCORE",
+  "BODY_SLAM",
+  "TOXIC",
+  "STOCKPILE",
+  "SPIT_UP",
+  "SWALLOW",
+  "SLUDGE_BOMB",
+  )),
+
+
+  ("TROPIUS",(
+  "LEER",
+  "GUST",
+  "GROWTH",
+  "RAZOR_LEAF",
+  "STOMP",
+  "SWEET_SCENT",
+  "WHIRLWIND",
+  "MAGICAL_LEAF",
+  "BODY_SLAM",
+  "SOLAR_BEAM",
+  "SYNTHESIS",
+  )),
+
+
+  ("WHISMUR",(
+  "POUND",
+  "UPROAR",
+  "ASTONISH",
+  "HOWL",
+  "SUPERSONIC",
+  "STOMP",
+  "SCREECH",
+  "ROAR",
+  "REST",
+  "SLEEP_TALK",
+  "HYPER_VOICE",
+  )),
+
+
+  ("LOUDRED",(
+  "POUND",
+  "UPROAR",
+  "ASTONISH",
+  "HOWL",
+  "UPROAR",
+  "ASTONISH",
+  "HOWL",
+  "SUPERSONIC",
+  "STOMP",
+  "SCREECH",
+  "ROAR",
+  "REST",
+  "SLEEP_TALK",
+  "HYPER_VOICE",
+  )),
+
+
+  ("EXPLOUD",(
+  "POUND",
+  "UPROAR",
+  "ASTONISH",
+  "HOWL",
+  "UPROAR",
+  "ASTONISH",
+  "HOWL",
+  "SUPERSONIC",
+  "STOMP",
+  "SCREECH",
+  "HYPER_BEAM",
+  "ROAR",
+  "REST",
+  "SLEEP_TALK",
+  "HYPER_VOICE",
+  )),
+
+
+  ("CLAMPERL",(
+  "CLAMP",
+  "WATER_GUN",
+  "WHIRLPOOL",
+  "IRON_DEFENSE",
+  )),
+
+
+  ("HUNTAIL",(
+  "WHIRLPOOL",
+  "BITE",
+  "SCREECH",
+  "WATER_PULSE",
+  "SCARY_FACE",
+  "CRUNCH",
+  "BATON_PASS",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("GOREBYSS",(
+  "WHIRLPOOL",
+  "CONFUSION",
+  "AGILITY",
+  "WATER_PULSE",
+  "AMNESIA",
+  "PSYCHIC",
+  "BATON_PASS",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("ABSOL",(
+  "SCRATCH",
+  "LEER",
+  "TAUNT",
+  "QUICK_ATTACK",
+  "RAZOR_WIND",
+  "BITE",
+  "SWORDS_DANCE",
+  "DOUBLE_TEAM",
+  "SLASH",
+  "FUTURE_SIGHT",
+  "PERISH_SONG",
+  )),
+
+
+  ("SHUPPET",(
+  "KNOCK_OFF",
+  "SCREECH",
+  "NIGHT_SHADE",
+  "CURSE",
+  "SPITE",
+  "WILL_O_WISP",
+  "FAINT_ATTACK",
+  "SHADOW_BALL",
+  "SNATCH",
+  "GRUDGE",
+  )),
+
+
+  ("BANETTE",(
+  "KNOCK_OFF",
+  "SCREECH",
+  "NIGHT_SHADE",
+  "CURSE",
+  "SCREECH",
+  "NIGHT_SHADE",
+  "CURSE",
+  "SPITE",
+  "WILL_O_WISP",
+  "FAINT_ATTACK",
+  "SHADOW_BALL",
+  "SNATCH",
+  "GRUDGE",
+  )),
+
+
+  ("SEVIPER",(
+  "WRAP",
+  "LICK",
+  "BITE",
+  "POISON_TAIL",
+  "SCREECH",
+  "GLARE",
+  "CRUNCH",
+  "POISON_FANG",
+  "SWAGGER",
+  "HAZE",
+  )),
+
+
+  ("ZANGOOSE",(
+  "SCRATCH",
+  "LEER",
+  "QUICK_ATTACK",
+  "SWORDS_DANCE",
+  "FURY_CUTTER",
+  "SLASH",
+  "PURSUIT",
+  "CRUSH_CLAW",
+  "TAUNT",
+  "DETECT",
+  "FALSE_SWIPE",
+  )),
+
+
+  ("RELICANTH",(
+  "TACKLE",
+  "HARDEN",
+  "WATER_GUN",
+  "ROCK_TOMB",
+  "YAWN",
+  "TAKE_DOWN",
+  "MUD_SPORT",
+  "ANCIENT_POWER",
+  "REST",
+  "DOUBLE_EDGE",
+  "HYDRO_PUMP",
+  )),
+
+
+  ("ARON",(
+  "TACKLE",
+  "HARDEN",
+  "MUD_SLAP",
+  "HEADBUTT",
+  "METAL_CLAW",
+  "IRON_DEFENSE",
+  "ROAR",
+  "TAKE_DOWN",
+  "IRON_TAIL",
+  "PROTECT",
+  "METAL_SOUND",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("LAIRON",(
+  "TACKLE",
+  "HARDEN",
+  "MUD_SLAP",
+  "HEADBUTT",
+  "HARDEN",
+  "MUD_SLAP",
+  "HEADBUTT",
+  "METAL_CLAW",
+  "IRON_DEFENSE",
+  "ROAR",
+  "TAKE_DOWN",
+  "IRON_TAIL",
+  "PROTECT",
+  "METAL_SOUND",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("AGGRON",(
+  "TACKLE",
+  "HARDEN",
+  "MUD_SLAP",
+  "HEADBUTT",
+  "HARDEN",
+  "MUD_SLAP",
+  "HEADBUTT",
+  "METAL_CLAW",
+  "IRON_DEFENSE",
+  "ROAR",
+  "TAKE_DOWN",
+  "IRON_TAIL",
+  "PROTECT",
+  "METAL_SOUND",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("CASTFORM",(
+  "TACKLE",
+  "WATER_GUN",
+  "EMBER",
+  "POWDER_SNOW",
+  "RAIN_DANCE",
+  "SUNNY_DAY",
+  "HAIL",
+  "WEATHER_BALL",
+  )),
+
+
+  ("VOLBEAT",(
+  "TACKLE",
+  "CONFUSE_RAY",
+  "DOUBLE_TEAM",
+  "MOONLIGHT",
+  "QUICK_ATTACK",
+  "TAIL_GLOW",
+  "SIGNAL_BEAM",
+  "PROTECT",
+  "HELPING_HAND",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("ILLUMISE",(
+  "TACKLE",
+  "SWEET_SCENT",
+  "CHARM",
+  "MOONLIGHT",
+  "QUICK_ATTACK",
+  "WISH",
+  "ENCORE",
+  "FLATTER",
+  "HELPING_HAND",
+  "COVET",
+  )),
+
+
+  ("LILEEP",(
+  "ASTONISH",
+  "CONSTRICT",
+  "ACID",
+  "INGRAIN",
+  "CONFUSE_RAY",
+  "AMNESIA",
+  "ANCIENT_POWER",
+  "STOCKPILE",
+  "SPIT_UP",
+  "SWALLOW",
+  )),
+
+
+  ("CRADILY",(
+  "ASTONISH",
+  "CONSTRICT",
+  "ACID",
+  "INGRAIN",
+  "CONSTRICT",
+  "ACID",
+  "INGRAIN",
+  "CONFUSE_RAY",
+  "AMNESIA",
+  "ANCIENT_POWER",
+  "STOCKPILE",
+  "SPIT_UP",
+  "SWALLOW",
+  )),
+
+
+  ("ANORITH",(
+  "SCRATCH",
+  "HARDEN",
+  "MUD_SPORT",
+  "WATER_GUN",
+  "METAL_CLAW",
+  "PROTECT",
+  "ANCIENT_POWER",
+  "FURY_CUTTER",
+  "SLASH",
+  "ROCK_BLAST",
+  )),
+
+
+  ("ARMALDO",(
+  "SCRATCH",
+  "HARDEN",
+  "MUD_SPORT",
+  "WATER_GUN",
+  "HARDEN",
+  "MUD_SPORT",
+  "WATER_GUN",
+  "METAL_CLAW",
+  "PROTECT",
+  "ANCIENT_POWER",
+  "FURY_CUTTER",
+  "SLASH",
+  "ROCK_BLAST",
+  )),
+
+
+  ("RALTS",(
+  "GROWL",
+  "CONFUSION",
+  "DOUBLE_TEAM",
+  "TELEPORT",
+  "CALM_MIND",
+  "PSYCHIC",
+  "IMPRISON",
+  "FUTURE_SIGHT",
+  "HYPNOSIS",
+  "DREAM_EATER",
+  )),
+
+
+  ("KIRLIA",(
+  "GROWL",
+  "CONFUSION",
+  "DOUBLE_TEAM",
+  "TELEPORT",
+  "CONFUSION",
+  "DOUBLE_TEAM",
+  "TELEPORT",
+  "CALM_MIND",
+  "PSYCHIC",
+  "IMPRISON",
+  "FUTURE_SIGHT",
+  "HYPNOSIS",
+  "DREAM_EATER",
+  )),
+
+
+  ("GARDEVOIR",(
+  "GROWL",
+  "CONFUSION",
+  "DOUBLE_TEAM",
+  "TELEPORT",
+  "CONFUSION",
+  "DOUBLE_TEAM",
+  "TELEPORT",
+  "CALM_MIND",
+  "PSYCHIC",
+  "IMPRISON",
+  "FUTURE_SIGHT",
+  "HYPNOSIS",
+  "DREAM_EATER",
+  )),
+
+
+  ("BAGON",(
+  "RAGE",
+  "BITE",
+  "LEER",
+  "HEADBUTT",
+  "FOCUS_ENERGY",
+  "EMBER",
+  "DRAGON_BREATH",
+  "SCARY_FACE",
+  "CRUNCH",
+  "DRAGON_CLAW",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("SHELGON",(
+  "RAGE",
+  "BITE",
+  "LEER",
+  "HEADBUTT",
+  "BITE",
+  "LEER",
+  "HEADBUTT",
+  "FOCUS_ENERGY",
+  "EMBER",
+  "PROTECT",
+  "DRAGON_BREATH",
+  "SCARY_FACE",
+  "CRUNCH",
+  "DRAGON_CLAW",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("SALAMENCE",(
+  "RAGE",
+  "BITE",
+  "LEER",
+  "HEADBUTT",
+  "BITE",
+  "LEER",
+  "HEADBUTT",
+  "FOCUS_ENERGY",
+  "EMBER",
+  "PROTECT",
+  "DRAGON_BREATH",
+  "SCARY_FACE",
+  "FLY",
+  "CRUNCH",
+  "DRAGON_CLAW",
+  "DOUBLE_EDGE",
+  )),
+
+
+  ("BELDUM",(
+  "TAKE_DOWN",
+  "IRON_DEFENSE",
+  "HEADBUTT",
+  "TACKLE",
+
+  )),
+
+
+  ("METANG",(
+  "TAKE_DOWN",
+  "CONFUSION",
+  "METAL_CLAW",
+  "SCARY_FACE",
+  "PURSUIT",
+  "PSYCHIC",
+  "IRON_DEFENSE",
+  "METEOR_MASH",
+  "AGILITY",
+  "HYPER_BEAM",
+  )),
+
+
+  ("METAGROSS",(
+  "TAKE_DOWN",
+  "CONFUSION",
+  "METAL_CLAW",
+  "SCARY_FACE",
+  "CONFUSION",
+  "METAL_CLAW",
+  "SCARY_FACE",
+  "PURSUIT",
+
+  "IRON_DEFENSE",
+  "PSYCHIC",
+  "METEOR_MASH",
+  "AGILITY",
+  "HYPER_BEAM",
+  )),
+
+
+
+
+  ("CHIMECHO",(
+  "WRAP",
+  "GROWL",
+  "ASTONISH",
+  "CONFUSION",
+  "TAKE_DOWN",
+  "UPROAR",
+  "YAWN",
+  "PSYWAVE",
+  "DOUBLE_EDGE",
+  "HEAL_BELL",
+  "SAFEGUARD",
+  "PSYCHIC",
+  ))
+]
+

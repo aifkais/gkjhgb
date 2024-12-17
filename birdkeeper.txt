@@ -1,0 +1,185 @@
+birdkeeper gegen swimmerm
+
+Team birdkeeper:
+HYPNO ELECTRODE OCTILLERY LUDICOLO 
+
+Team swimmerm:
+SHIFTRY GLALIE PIDGEOT DEWGONG 
+
+HYPNO mit 311 HP
+SHIFTRY mit 321 HP
+
+SHIFTRY setzt POUND ein
+verursacht 45 Schaden 
+
+HYPNO setzt MEDITATE ein
+Der Angriff hat keine Wirkung
+verursacht 0 Schaden 
+
+SHIFTRY setzt POUND ein
+verursacht 44 Schaden 
+
+HYPNO setzt FUTURE_SIGHT ein
+Der Angriff hat keine Wirkung
+verursacht 0 Schaden 
+
+SHIFTRY setzt POUND ein
+verursacht 40 Schaden 
+
+HYPNO setzt PSYCHIC ein
+Der Angriff hat keine Wirkung
+verursacht 0 Schaden 
+
+SHIFTRY setzt POUND ein
+verursacht 44 Schaden 
+
+HYPNO setzt PSYCH_UP ein
+verursacht 0 Schaden 
+
+SHIFTRY setzt POUND ein
+verursacht 42 Schaden 
+
+HYPNO setzt PSYCH_UP ein
+verursacht 0 Schaden 
+
+SHIFTRY setzt POUND ein
+verursacht 46 Schaden 
+
+HYPNO setzt PSYCHIC ein
+Der Angriff hat keine Wirkung
+verursacht 0 Schaden 
+
+SHIFTRY setzt POUND ein
+verursacht 41 Schaden 
+
+HYPNO setzt FUTURE_SIGHT ein
+Der Angriff hat keine Wirkung
+verursacht 0 Schaden 
+
+SHIFTRY setzt POUND ein
+verursacht 45 Schaden 
+
+HYPNO ist KO!
+
+ELECTRODE mit 261 HP
+SHIFTRY mit 321 HP
+
+ELECTRODE setzt EXPLOSION ein
+verursacht 160 Schaden 
+
+SHIFTRY setzt POUND ein
+verursacht 41 Schaden 
+
+ELECTRODE setzt EXPLOSION ein
+verursacht 160 Schaden 
+
+SHIFTRY setzt POUND ein
+verursacht 43 Schaden 
+
+ELECTRODE setzt EXPLOSION ein
+verursacht 177 Schaden 
+
+SHIFTRY ist KO!
+
+ELECTRODE mit 177 HP
+GLALIE mit 301 HP
+
+ELECTRODE setzt EXPLOSION ein
+verursacht 130 Schaden 
+
+GLALIE setzt BLIZZARD ein
+verursacht 148 Schaden 
+
+ELECTRODE setzt EXPLOSION ein
+verursacht 130 Schaden 
+
+GLALIE setzt BLIZZARD ein
+Der Angriff ging daneben
+verursacht 0 Schaden 
+
+ELECTRODE setzt EXPLOSION ein
+verursacht 136 Schaden 
+
+GLALIE ist KO!
+
+ELECTRODE mit 29 HP
+PIDGEOT mit 307 HP
+
+ELECTRODE setzt EXPLOSION ein
+verursacht 153 Schaden 
+
+PIDGEOT setzt WING_ATTACK ein
+verursacht 37 Schaden 
+
+ELECTRODE ist KO!
+
+OCTILLERY mit 291 HP
+PIDGEOT mit 154 HP
+
+PIDGEOT setzt WING_ATTACK ein
+verursacht 79 Schaden 
+
+OCTILLERY setzt ICE_BEAM ein
+Der Angriff ist sehr Effektiv
+verursacht 194 Schaden 
+
+PIDGEOT ist KO!
+
+OCTILLERY mit 212 HP
+DEWGONG mit 321 HP
+
+DEWGONG setzt TAKE_DOWN ein
+verursacht 69 Schaden 
+
+OCTILLERY setzt HYPER_BEAM ein
+verursacht 140 Schaden 
+
+DEWGONG setzt TAKE_DOWN ein
+verursacht 73 Schaden 
+
+OCTILLERY setzt HYPER_BEAM ein
+OCTILLERY muss sich aufladen
+verursacht 0 Schaden 
+
+DEWGONG setzt TAKE_DOWN ein
+verursacht 71 Schaden 
+
+OCTILLERY ist KO!
+
+LUDICOLO mit 301 HP
+DEWGONG mit 181 HP
+
+LUDICOLO setzt ABSORB ein
+Der Angriff ist sehr Effektiv
+verursacht 47 Schaden 
+
+DEWGONG setzt TAKE_DOWN ein
+verursacht 66 Schaden 
+
+DEWGONG setzt TAKE_DOWN ein
+verursacht 73 Schaden 
+
+LUDICOLO setzt ABSORB ein
+Der Angriff ist sehr Effektiv
+verursacht 53 Schaden 
+
+DEWGONG setzt TAKE_DOWN ein
+verursacht 67 Schaden 
+
+LUDICOLO setzt ABSORB ein
+Der Angriff ist sehr Effektiv
+verursacht 46 Schaden 
+
+DEWGONG setzt TAKE_DOWN ein
+verursacht 75 Schaden 
+
+LUDICOLO setzt ABSORB ein
+Der Angriff ist sehr Effektiv
+verursacht 52 Schaden 
+
+DEWGONG ist KO!
+
+swimmerm hat keine Pokemon mehr..
+Total dmg von birdkeeper: 1578
+Total dmg von swimmerm: 1189
+birdkeeper gewinnt gegen swimmerm
